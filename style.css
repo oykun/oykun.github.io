@@ -1,8 +1,7 @@
 @import url('https://rsms.me/inter/inter-ui.css');
 
 html { 
-	font-size: 2vw; 
-	font-size: calc(1em + 1vw);
+	font-size: 1vw; 
 	font-family: 'Inter UI', sans-serif;
 	letter-spacing: -1px;
 }
@@ -46,10 +45,17 @@ h2 {
 	font-style: normal;
 	font-weight: 600;
 }
+h3 {
+	font-size: 2vw; 
+}
+h5 {
+	font-size: 1.5vw; 
+}
 p {
- font-size:  2vw;
+ font-size:  1.8vw;
  line-height: 3vw;
 }
+
 a {
 	color: #fff;    
 }
@@ -86,18 +92,16 @@ a.email:hover {
 nav {
 	border-bottom: 0px solid #111;
 	padding: 2vw 4vw;
-	font-size: 0.7em;
 	color: #ccc;
 }
 nav a {
 	color: #a9a9a9;
 }
 input {
-	border: 1px solid #000;
-	padding: 10px;
+	border: 1px solid #575858;
+	padding: 20px;
 	background-color: #000;
 	margin: 0;
-	font-size: 0.8em;
 	color: #fff;
 }
 input:hover {
