@@ -45,6 +45,7 @@ h2 {
 	font-weight: 600;
 }
 h3 {
+	font-family: titling-gothic-fb-extended, sans-serif;
 	font-size: 2vw; 
 }
 h5 {
@@ -93,6 +94,9 @@ nav {
 	padding: 2vw 4vw;
 	color: #ccc;
 }
+nav h3 {
+	font-size: 1.6vw;
+}
 nav a {
 	color: #a9a9a9;
 }
@@ -103,6 +107,10 @@ input {
 	margin: 0;
 	color: #fff;
 	font-size: 1.4vw;
+}
+input[type=email] {
+	border-left: 0;
+	border-right: 0;
 }
 input:hover {
 	border-color:#fff;
