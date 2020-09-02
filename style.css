@@ -100,7 +100,6 @@ input {
 	font-size: 1.4vw;
 }
 input[type=email] {
-	border-left: 0;
 	border-right: 0;
 }
 input:hover {
@@ -178,7 +177,12 @@ ul.list li {
 }
 
 
-
+/* \\\\\\\\\\\\\\\\\\\\\\\\\\
+		\\\\\\\\\\\\\\\\  INTRO  */
+.intro h4 {
+	font-size: 1.5vw;
+	font-weight: 500;
+}
 
 /* \\\\\\\\\\\\\\\\\\\\\\\\\\
 		\\\\\\\\\\\\\\\\  PROCESS  */
