@@ -14,3 +14,14 @@ During my career, I've taken the role of multiple disciplines from development t
 -
 
 Make. Learn. Grow. 
+
+<p class="clean-links">
+<a href="https://twitter.com/oykun" title="@oykun">Twitter @oykun</a> <br>
+<a href="https://instagram.com/oykun" title="@oykun">Instagram @oykun</a> <br>
+<a href="https://www.linkedin.com/in/oykun/" title="oykun">LinkedIn /oykun</a> <br>
+<a href="https://www.behance.net/oykun" title="oykun">Behance @oykun</a> <br>
+<a href="https://www.dribbble.com/oykun" title="oykun">Dribbble @oykun</a> <br>
+<a href="https://www.facebook.com/oykunyilmaz" title="oykunyilmaz">Facebook @oykunyilmaz</a> <br>
+<a href="https://github.com/oykun" title="@oykun">Github @oykun</a> <br>
+<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email hello@oykun.com</a> <br>
+</p>

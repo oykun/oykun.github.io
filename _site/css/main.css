@@ -36,6 +36,8 @@ a { color: #3c434c; }
 
 a:hover { color: #3c434c; }
 
+.clean-links a { text-decoration: none; }
+
 .text-small { font-size: 0.9rem; }
 
 .text-grey { color: #87929f; }
