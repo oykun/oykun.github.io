@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Oykun Yilmaz, Designer.
 ---
 
 {% for post in site.posts %}

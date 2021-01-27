@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Subscribe
+title: Oykun Yilmaz, Subscribe
 permalink: /subscribe/
 ---
 

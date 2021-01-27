@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work
+title: Oykun Yilmaz, Work
 permalink: /work/
 ---
 <div class="page-work">

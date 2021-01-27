@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Oykun Yilmaz, About
 permalink: /about/
 ---
 
