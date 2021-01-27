@@ -22,7 +22,7 @@ Typography
 html { font-size: 125%; }
 
 /*20px*/
-body { color: #3c434c; font-family: "Times New Roman", Times, serif; line-height: 1.6rem; }
+body { color: #3c434c; font-family: "Times New Roman", Times, serif; line-height: 1.6rem; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 h1, h2, h3, h4, h5 { font-family: Arial; }
 
@@ -93,7 +93,7 @@ Blog
 ------------------------------ */
 article { padding: 20px 0; }
 
-article a { width: 100%; display: block; font-size: 1.4rem; font-weight: 500; line-height: 2rem; }
+article a { width: 100%; display: block; font-size: 1.5rem; font-weight: 500; line-height: 2rem; }
 
 article time { color: #87929f; font-family: Arial; font-size: 0.8rem; }
 

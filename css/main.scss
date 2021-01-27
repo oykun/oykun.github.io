@@ -54,6 +54,9 @@ body {
 	color: $dark;
 	font-family: "Times New Roman", Times, serif;
 	line-height: 1.6rem;
+
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 h1, h2, h3, h4, h5 {
 	font-family: Arial;
@@ -139,7 +142,7 @@ article {
 	a {
 		width: 100%; 
 		display: block;
-		font-size: 1.4rem;
+		font-size: 1.5rem;
 		font-weight: 500;
 		line-height: 2rem;
 	}
