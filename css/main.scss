@@ -22,10 +22,17 @@ main, header, footer {
 header, footer {
 	padding: 4rem 0;
 	line-height: 2rem;
+	font-family: Arial;
+	font-size: 0.9rem;
 }
 nav {
 	a {
 		margin-right: 10px;
+		text-decoration: none;
+
+		&:hover {
+			color: $black;
+		}
 	}
 }
 footer {

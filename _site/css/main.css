@@ -6,9 +6,11 @@ Layout
 ------------------------------ */
 main, header, footer { max-width: 700px; margin: 0 auto; }
 
-header, footer { padding: 4rem 0; line-height: 2rem; }
+header, footer { padding: 4rem 0; line-height: 2rem; font-family: Arial; font-size: 0.9rem; }
 
-nav a { margin-right: 10px; }
+nav a { margin-right: 10px; text-decoration: none; }
+
+nav a:hover { color: #111; }
 
 footer { font-family: Arial; font-size: 0.9rem; color: #87929f; }
 
