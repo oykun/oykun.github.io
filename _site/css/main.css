@@ -22,7 +22,7 @@ Typography
 html { font-size: 125%; }
 
 /*20px*/
-body { color: #3c434c; font-family: "Times New Roman", Times, serif; line-height: 1.6rem; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { color: #3c434c; font-family: Georgia; line-height: 1.6rem; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 h1, h2, h3, h4, h5 { font-family: Arial; }
 
