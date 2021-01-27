@@ -40,7 +40,9 @@ a:hover { color: #3c434c; }
 
 .text-small { font-size: 0.9rem; }
 
-.text-grey { color: #87929f; }
+.text-large { font-size: 1.2rem; }
+
+.text-grey, .text-grey a { color: #87929f; }
 
 blockquote { margin-top: 3rem; margin-bottom: 3rem; font-size: 1.1rem; font-family: Arial; }
 

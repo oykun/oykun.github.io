@@ -4,4 +4,5 @@ title: Oykun Yilmaz, Subscribe
 permalink: /subscribe/
 ---
 
-<h1>Sharing lessons, experiments and updates from my ~20 years of experience <br />↓</h1>
+<p class="text-large">Sharing lessons, experiments and updates from my ~20 years of experience.</p>
+<p class="text-large mb0 pb0">No spams, ever. <br>↓</p>

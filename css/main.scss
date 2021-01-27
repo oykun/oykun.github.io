@@ -87,7 +87,10 @@ a {
 .text-small {
 	font-size: 0.9rem;
 }
-.text-grey {
+.text-large {
+	font-size: 1.2rem;
+}
+.text-grey, .text-grey a {
 	color: $grey;
 }
 blockquote {
