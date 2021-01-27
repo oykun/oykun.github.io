@@ -1,33 +1,135 @@
 ---
 ---
 
-
 /* ---------------------------
 Variables
 ------------------------------ */
+
+// colors
 $black: #111;
 $dark: #3c434c;
 $grey: #87929f;
 $white: #fff;
 $link: $dark;
 
-$serif: Georgia;
-$sans-serif: Arial;
+// fonts
+$serif: Georgia, Times, serif;
+$sans-serif: Arial, Helvetica, sans-serif;
+$font-family: $serif;
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-heavy: 700;
+$font-height: 1.5;
+
+// grid
+$width: 96%;
+$gutter: 4%;
+$breakpoint-small: 33.75em; // 540px
+$breakpoint-med: 45em; // 720px
+$breakpoint-large: 60em; // 960px
+
+
+/* ---------------------------
+12 Grid System
+------------------------------ */
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+}
+
+.container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media only screen and (min-width: $breakpoint-small) {
+    width: 80%;
+  }
+
+  @media only screen and (min-width: $breakpoint-large) {
+    width: 75%;
+    max-width: 60rem;
+  }
+}
+
+.row {
+  position: relative;
+  width: 100%;
+}
+
+.row [class^="col"] {
+  float: left;
+  margin: 0.5rem 2%;
+  min-height: 0.125rem;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+  width: $width;
+}
+
+.col-1-sm { width:($width / 12) - ($gutter * 11 / 12); }
+.col-2-sm { width: ($width / 6) - ($gutter * 10 / 12); }
+.col-3-sm { width: ($width / 4) - ($gutter * 9 / 12); }
+.col-4-sm { width: ($width / 3) - ($gutter * 8 / 12); }
+.col-5-sm { width: ($width / (12 / 5)) - ($gutter * 7 / 12); }
+.col-6-sm { width: ($width / 2) - ($gutter * 6 / 12); }
+.col-7-sm { width: ($width / (12 / 7)) - ($gutter * 5 / 12); }
+.col-8-sm { width: ($width / (12 / 8)) - ($gutter * 4 / 12); }
+.col-9-sm { width: ($width / (12 / 9)) - ($gutter * 3 / 12); }
+.col-10-sm { width: ($width / (12 / 10)) - ($gutter * 2 / 12); }
+.col-11-sm { width: ($width / (12 / 11)) - ($gutter * 1 / 12); }
+.col-12-sm { width: $width; }
+
+@media only screen and (min-width: $breakpoint-med) {
+  .col-1 { width:($width / 12) - ($gutter * 11 / 12); }
+  .col-2 { width: ($width / 6) - ($gutter * 10 / 12); }
+  .col-3 { width: ($width / 4) - ($gutter * 9 / 12); }
+  .col-4 { width: ($width / 3) - ($gutter * 8 / 12); }
+  .col-5 { width: ($width / (12 / 5)) - ($gutter * 7 / 12); }
+  .col-6 { width: ($width / 2) - ($gutter * 6 / 12); }
+  .col-7 { width: ($width / (12 / 7)) - ($gutter * 5 / 12); }
+  .col-8 { width: ($width / (12 / 8)) - ($gutter * 4 / 12); }
+  .col-9 { width: ($width / (12 / 9)) - ($gutter * 3 / 12); }
+  .col-10 { width: ($width / (12 / 10)) - ($gutter * 2 / 12); }
+  .col-11 { width: ($width / (12 / 11)) - ($gutter * 1 / 12); }
+  .col-12 { width: $width; }
+
+  .hidden-sm {
+    display: block;
+  }
+}
+
+
 
 /* ---------------------------
 Layout
 ------------------------------ */
-main, header, footer {
-	max-width: 700px;
-	margin: 0 auto;
-}
 header, footer {
 	padding: 4rem 0;
-	line-height: 2rem;
-	font-family: Arial;
-	font-size: 0.9rem;
 }
+
+footer {
+	color: $grey;
+
+	a {
+		color: $grey;
+	}
+}
+
 nav {
+	margin: 1rem 0;
+	
 	a {
 		margin-right: 10px;
 		text-decoration: none;
@@ -37,41 +139,41 @@ nav {
 		}
 	}
 }
-footer {
-	font-family: Arial;
-	font-size: 0.9rem;
-	color: $grey;
 
-	a {
-		color: $grey;
-	}
-}
+
 
 /* ---------------------------
 Typography
 ------------------------------ */
-html {font-size: 125%;} /*20px*/
-
-body {
-	color: $dark;
-	font-family: $serif;
-	line-height: 1.6rem;
-
+* {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+
+html, body {
+	font-size: 110%;
+	font-family: $font-family;
+	color: $dark;
+	line-height: $font-height;
+}
+
 h1, h2, h3, h4, h5 {
 	font-family: $sans-serif;
 }
-h1 {
-	line-height: 2.5rem;
-}
-h4 {
-	margin-bottom: 0;
-}
+
+h1 {font-size: 2.5rem;}
+h2 {font-size: 2rem;}
+h3 {font-size: 1.375rem;}
+h4 {font-size: 1.125rem;}
+h5 {font-size: 1rem;}
+h6 {font-size: 0.875rem;}
+
 p {
-	margin-bottom: 1.6rem;
+	font-size: 1.125rem;
+	font-weight: 200;
+	line-height: 1.8;
 }
+
 a {
 	color: $link;
 
@@ -79,20 +181,7 @@ a {
 		color: $dark;
 	}
 }
-.clean-links {
-	a {
-		text-decoration: none;
-	}
-}
-.text-small {
-	font-size: 0.9rem;
-}
-.text-large {
-	font-size: 1.2rem;
-}
-.text-grey, .text-grey a {
-	color: $grey;
-}
+
 blockquote {
 	margin-top: 3rem;
 	margin-bottom: 3rem;
@@ -100,28 +189,39 @@ blockquote {
 	font-family: Arial;
 }
 
+.font-light {font-weight: $font-weight-light;}
+.font-regular {font-weight: $font-weight-regular;}
+.font-heavy {font-weight: $font-weight-heavy;}
 
-/* ---------------------------
-Form
------------------------------- */
-footer {
+.text-small {font-size: 0.9rem;}
+.text-large {font-size: 1.2rem;}
 
-	input {
-		font-size: 0.8rem;
-		padding: 10px;
-	}
-
-	.submit {
-		border: 1px solid $black;
-		background-color: $black;
-		color: $white;
+.clean-links {
+	a {
+		text-decoration: none;
 	}
 }
 
+.text-grey, .text-grey a {
+	color: $grey;
+}
+
+
 
 /* ---------------------------
-Spacing
+Utility
 ------------------------------ */
+.left {text-align: left;}
+.right {text-align: right;}
+.justify {text-align: justify;}
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hidden-sm {display: none;}
+
 .mt5 {margin-top: 50px;}
 .mt4 {margin-top: 40px;}
 .mt3 {margin-top: 30px;}
@@ -142,6 +242,26 @@ Spacing
 .pb2 {padding-bottom: 20px;}
 .pb1 {padding-bottom: 10px;}
 .pb0 {padding-bottom: 0px;}
+
+
+
+/* ---------------------------
+Form
+------------------------------ */
+footer {
+
+	input {
+		padding: 10px;
+	}
+
+	.submit {
+		border: 1px solid $black;
+		background-color: $black;
+		color: $white;
+	}
+}
+
+
 
 /* ---------------------------
 Blog
@@ -164,12 +284,13 @@ article {
 	}
 
 }
+
 h1.post-title {
 	font-size: 3rem;
 }
+
 .post-content {
 	img {
-		max-width: 700px;
 		margin: 2rem auto;
 	}
 }
