@@ -1,9 +1,4 @@
----
-layout: default
-title: Oykun Yilmaz, Work
-permalink: /work/
----
-<div class="page-work">
+I"]<div class="page-work">
 <div class="row">
 	<div class="col-12">
 		<p class="text-grey"><i>Detailed case studies are coming soon. Meanwhile you can see a simple timeline of a few selected projects below, designs at <a href="https://dribbble.com/oykun" title="Dribbble @oykun">Dribbble</a> and view my career story at <a href="https://www.linkedin.com/in/oykun/" title="Linkedin @oykun">LinkedIn</a>.</i></p>
@@ -81,3 +76,4 @@ permalink: /work/
 	</div>
 </div>
 </div>
+:ET
