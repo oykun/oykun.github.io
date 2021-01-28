@@ -10,7 +10,7 @@ html, body { height: 100%; width: 100%; margin: 0; padding: 0; left: 0; top: 0; 
 
 @media only screen and (min-width: 33.75em) { .container { width: 80%; } }
 
-@media only screen and (min-width: 60em) { .container { width: 75%; max-width: 50rem; } }
+@media only screen and (min-width: 60em) { .container { width: 75%; max-width: 45rem; } }
 
 .row { position: relative; width: 100%; }
 
@@ -68,11 +68,11 @@ Typography
 ------------------------------ */
 * { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-html, body { font-size: 110%; font-family: Georgia, Times, serif; color: #3c434c; line-height: 1.7; }
+html, body { font-size: 18px; font-family: Georgia, Times, serif; color: #3c434c; line-height: 1.7; }
 
-h1, h2, h3, h4, h5, h6 { font-family: Arial, Helvetica, sans-serif; }
+h1, h2, h3, h4, h5 { font-family: Arial, Helvetica, sans-serif; }
 
-h1 { font-size: 2.5rem; }
+h1 { font-size: 2.125rem; }
 
 h2 { font-size: 2rem; }
 
@@ -81,8 +81,6 @@ h3 { font-size: 1.375rem; }
 h4 { font-size: 1.125rem; }
 
 h5 { font-size: 1rem; }
-
-h6 { font-size: 0.875rem; }
 
 p { font-weight: 400; line-height: 1.7; }
 
@@ -149,6 +147,18 @@ Utility
 
 .mb0 { margin-bottom: 0px !important; }
 
+.pt5 { padding-top: 50px !important; }
+
+.pt4 { padding-top: 40px !important; }
+
+.pt3 { padding-top: 30px !important; }
+
+.pt2 { padding-top: 20px !important; }
+
+.pt1 { padding-top: 10px !important; }
+
+.pt0 { padding-top: 0px !important; }
+
 .pb5 { padding-bottom: 50px !important; }
 
 .pb4 { padding-bottom: 40px !important; }
@@ -176,8 +186,6 @@ article { padding: 20px 0; }
 article a { width: 100%; display: block; font-size: 1.5rem; font-weight: 500; line-height: 2rem; }
 
 article time { color: #87929f; font-family: Arial, Helvetica, sans-serif; }
-
-h1.post-title { letter-spacing: -0.02em; margin: 0; padding: 0; }
 
 .post-content img { margin: 2rem auto; }
 
