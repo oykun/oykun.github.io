@@ -1,12 +1,4 @@
----
-layout: post
-title:  "White Space"
-date:   2013-03-25 00:01:01 +0000
-permalink: /:year/:title:output_ext
-categories: 
----
-
-<div class="col-12">
+I"1<div class="col-12">
 <p>Yesterday I tweeted few words about "white space", it got some attention and I received emails asking more about it, so I decided to write this short post as an answer.</p>
 
 <blockquote><p>White spaces in design are not wasted spaces. They clean the environment around the important element and gives better, easier, direct focus</p>
@@ -30,3 +22,4 @@ categories:
 
 <p>In today's fast moving life, every second is precious for all of us. So let's pay attention to make our products easier to use and understandable in the minimum possible time. Let's give our key information in well spaced format. Let's keep it simple and use white space efficiently. You will see the benefits in no time...</p>
 </div>
+:ET
