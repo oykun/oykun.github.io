@@ -199,8 +199,9 @@ blockquote {
 .font-regular {font-weight: $font-weight-regular;}
 .font-heavy {font-weight: $font-weight-heavy;}
 
-.text-small {font-size: 0.9rem;}
 .text-large {font-size: 1.2rem;}
+.text-small {font-size: 0.9rem;}
+.text-smaller {font-size: 0.8rem;}
 
 .clean-links {
 	a {
@@ -263,6 +264,7 @@ footer {
 		padding: 10px;
 		font-size: 1rem;
 		margin: 0;
+		border:1px solid $grey;
 	}
 
 	.submit {
