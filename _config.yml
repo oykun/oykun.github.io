@@ -31,6 +31,9 @@ github_username:  oykun
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+
 
 sass:
     sass_dir: _sass
