@@ -161,7 +161,7 @@ Typography
 html, body {
 	font-size: $font-size;
 	font-family: $font-serif;
-	color: $dark;
+	color: $black;
 	line-height: $font-height;
 }
 
@@ -298,6 +298,7 @@ article {
 		font-size: 1.5rem;
 		font-weight: 500;
 		line-height: 2rem;
+		color: $black;
 	}
 
 	time {
