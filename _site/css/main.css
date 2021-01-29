@@ -72,7 +72,7 @@ html, body { font-size: 18px; font-family: Georgia, Times, serif; color: #1A1A1A
 
 h1, h2, h3, h4, h5 { font-family: Arial, Helvetica, sans-serif; }
 
-h1 { font-size: 2.125rem; }
+h1 { font-size: 2.125rem; letter-spacing: -0.05rem; line-height: 3rem; }
 
 h2 { font-size: 2rem; }
 
@@ -183,7 +183,9 @@ Blog
 ------------------------------ */
 article { padding: 20px 0; }
 
-article a { width: 100%; display: block; font-size: 1.5rem; font-weight: 500; line-height: 2rem; color: #1A1A1A; }
+article h3 { margin: 0; padding: 0; font-weight: 300; }
+
+article a { width: 100%; display: block; color: #1A1A1A; text-decoration: none; }
 
 article time { color: #828282; font-family: Arial, Helvetica, sans-serif; }
 
