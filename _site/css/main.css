@@ -51,9 +51,9 @@ Layout
 ------------------------------ */
 header, footer { padding: 4rem 0; font-family: Arial, Helvetica, sans-serif; }
 
-footer { color: #87929f; }
+footer { margin-top: 2rem; color: #828282; }
 
-footer a { color: #87929f; }
+footer a { color: #828282; margin-right: 10px; }
 
 footer nav { margin: 2rem 0; }
 
@@ -61,7 +61,7 @@ nav { margin: 1rem 0; }
 
 nav a { margin-right: 10px; text-decoration: none; }
 
-nav a:hover { color: #111; }
+nav a:hover { color: #1A1A1A; }
 
 /* ---------------------------
 Typography
@@ -104,7 +104,7 @@ blockquote { margin-top: 3rem; margin-bottom: 3rem; font-size: 1.3rem; font-fami
 
 .clean-links a { text-decoration: none; }
 
-.text-grey, .text-grey a { color: #87929f; }
+.text-grey, .text-grey a { color: #828282; }
 
 /* ---------------------------
 Utility
@@ -174,9 +174,9 @@ Utility
 /* ---------------------------
 Form
 ------------------------------ */
-footer input { padding: 10px; font-size: 1rem; margin: 0; border: 1px solid #87929f; }
+footer input { padding: 10px; font-size: 1rem; margin: 0; border: 1px solid #828282; }
 
-footer .submit { border: 1px solid #111; background-color: #111; color: #fff; margin: 0; }
+footer .submit { border: 1px solid #1A1A1A; background-color: #1A1A1A; color: #FFFFFF; margin: 0; }
 
 /* ---------------------------
 Blog
@@ -185,17 +185,17 @@ article { padding: 20px 0; }
 
 article a { width: 100%; display: block; font-size: 1.5rem; font-weight: 500; line-height: 2rem; }
 
-article time { color: #87929f; font-family: Arial, Helvetica, sans-serif; }
+article time { color: #828282; font-family: Arial, Helvetica, sans-serif; }
 
 .post-content img { margin: 2rem auto; }
 
-.article-links { margin-top: 50px; font-size: 0.9rem; color: #87929f; }
+.article-links { margin-top: 50px; font-size: 0.9rem; color: #828282; }
 
 .article-links::before { content: "---"; }
 
 .article-links ul { list-style: none; padding: 0; margin: 0; }
 
-.article-links a { color: #87929f; }
+.article-links a { color: #828282; }
 
 /* ---------------------------
 Page - Work

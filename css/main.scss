@@ -6,10 +6,11 @@ Variables
 ------------------------------ */
 
 // colors
-$black: #111;
+$black: #1A1A1A;
 $dark: #3c434c;
-$grey: #87929f;
-$white: #fff;
+$grey: #828282;
+$light: #E9E9E9;
+$white: #FFFFFF;
 $link: $dark;
 
 // fonts
@@ -121,10 +122,12 @@ header, footer {
 }
 
 footer {
+	margin-top: 2rem;
 	color: $grey;
 
 	a {
 		color: $grey;
+		margin-right: 10px;
 	}
 
 	nav {
@@ -270,7 +273,7 @@ footer {
 		padding: 10px;
 		font-size: 1rem;
 		margin: 0;
-		border:1px solid $grey;
+		border: 1px solid $grey;
 	}
 
 	.submit {
