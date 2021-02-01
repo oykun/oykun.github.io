@@ -8,7 +8,7 @@ title: Oykun Yilmaz, Designer.
 {% for post in site.posts %}
 <div class="row">
 	<article>
-		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		<h1 class="slim"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		<time datetime="{{ post.date | date: '%B %-d, %Y' }}" class="text-grey text-small">{{ post.date | date: "%B %-d, %Y" }}</time>
 	</article>
 </div>

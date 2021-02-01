@@ -176,6 +176,11 @@ h1 {
 	letter-spacing: -0.05rem;
 	line-height: 3rem;
 }
+
+h1.slim {
+	font-weight: $font-weight-thin;
+
+}
 h2 {font-size: 2rem;}
 h3 {font-size: 1.375rem;}
 h4 {font-size: 1.125rem;}
@@ -254,6 +259,13 @@ Utility
 .mb1 {margin-bottom: 10px !important;}
 .mb0 {margin-bottom: 0px !important;}
 
+.ml5 {margin-left: 50px !important;}
+.ml4 {margin-left: 40px !important;}
+.ml3 {margin-left: 30px !important;}
+.ml2 {margin-left: 20px !important;}
+.ml1 {margin-left: 10px !important;}
+.ml0 {margin-left: 0px !important;}
+
 .pt5 {padding-top: 50px !important;}
 .pt4 {padding-top: 40px !important;}
 .pt3 {padding-top: 30px !important;}
@@ -296,6 +308,20 @@ footer {
 	}
 }
 
+.btn-outlined {
+	color: $dark;
+	background-color: $white;
+	border: 1px solid $grey;
+	padding: 8px 16px;
+	border-radius: 5px;
+	font-size: 0.9rem;
+
+	&:hover {
+		background-color: $light;
+		border-color: $light;
+	}
+}
+
 
 
 /* ---------------------------
@@ -307,7 +333,6 @@ article {
 	h1 {
 		margin: 0;
 		padding: 0;
-		font-weight: $font-weight-thin;
 	}
 
 	a {

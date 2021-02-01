@@ -74,6 +74,8 @@ h1, h2, h3, h4, h5 { font-family: Arial, Helvetica, sans-serif; }
 
 h1 { font-size: 2.125rem; letter-spacing: -0.05rem; line-height: 3rem; }
 
+h1.slim { font-weight: 100; }
+
 h2 { font-size: 2rem; }
 
 h3 { font-size: 1.375rem; }
@@ -147,6 +149,18 @@ Utility
 
 .mb0 { margin-bottom: 0px !important; }
 
+.ml5 { margin-left: 50px !important; }
+
+.ml4 { margin-left: 40px !important; }
+
+.ml3 { margin-left: 30px !important; }
+
+.ml2 { margin-left: 20px !important; }
+
+.ml1 { margin-left: 10px !important; }
+
+.ml0 { margin-left: 0px !important; }
+
 .pt5 { padding-top: 50px !important; }
 
 .pt4 { padding-top: 40px !important; }
@@ -182,12 +196,16 @@ footer .submit { border: 0; background-color: #FFFFFF; color: #1A1A1A; margin: 1
 
 footer .submit:hover { background-color: #E9E9E9; }
 
+.btn-outlined { color: #3c434c; background-color: #FFFFFF; border: 1px solid #828282; padding: 8px 16px; border-radius: 5px; font-size: 0.9rem; }
+
+.btn-outlined:hover { background-color: #E9E9E9; border-color: #E9E9E9; }
+
 /* ---------------------------
 Blog
 ------------------------------ */
 article { margin-bottom: 4rem; }
 
-article h1 { margin: 0; padding: 0; font-weight: 100; }
+article h1 { margin: 0; padding: 0; }
 
 article a { width: 100%; display: block; color: #1A1A1A; text-decoration: none; }
 

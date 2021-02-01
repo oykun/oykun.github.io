@@ -3,7 +3,7 @@ layout: default
 title: Oykun Yilmaz, Subscribe
 permalink: /subscribe/
 ---
-<div class="col-7">
-	<p class="text-large">Sharing lessons, experiments and updates from my ~20 years of experience.</p>
+<div class="col-12">
+	<h1 class="slim">Sharing lessons, experiments and updates from my ~20 years of experience.</h1>
 	<p class="text-large mb0 pb0">No spams, ever. <br>↓</p>
 </div>
