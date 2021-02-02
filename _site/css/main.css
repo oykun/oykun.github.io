@@ -211,7 +211,11 @@ article a { width: 100%; display: block; color: #1A1A1A; text-decoration: none; 
 
 article time { color: #828282; font-family: Arial, Helvetica, sans-serif; }
 
-.post-content img { margin: 2rem auto; }
+.post-content img { max-width: 100%; }
+
+.post-content .img-grey-bg { text-align: center; background: #E9E9E9 url("/assets/bg-nature.jpg"); background-repeat: no-repeat; background-size: auto; }
+
+.post-content .img-grey-bg img { width: 80%; margin: 20px auto; }
 
 #share-buttons a { margin-right: 10px; }
 
