@@ -23,6 +23,7 @@ $font-weight-regular: 400;
 $font-weight-heavy: 700;
 $font-height: 1.7;
 $font-size: 18px;
+$font-size-large: 24px;
 
 // grid
 $width: 96%;
@@ -47,16 +48,12 @@ body {
 
 .container {
   width: 90%;
+  max-width: 45rem;	
   margin-left: auto;
   margin-right: auto;
 
-  @media only screen and (min-width: $breakpoint-small) {
-    width: 80%;
-  }
-
-  @media only screen and (min-width: $breakpoint-large) {
-    width: 75%;
-    max-width: 45rem;
+  @media (max-width: $breakpoint-large) {
+  	font-size: $font-size-large;
   }
 }
 
