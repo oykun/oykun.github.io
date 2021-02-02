@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Oykun Yilmaz, Designer.
+image: /assets/oykun.jpg
 ---
 <div class="col-12">
 	{% for post in site.posts %}
