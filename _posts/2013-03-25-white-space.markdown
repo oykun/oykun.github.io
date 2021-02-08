@@ -3,6 +3,7 @@ layout: post
 title:  "White Space"
 date:   2013-03-25 00:01:01 +0000
 permalink: /:year/:title:output_ext
+image: /assets/white-space-1.png
 categories: 
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "New Beginnings"
 date:   2021-01-27 00:01:01 +0000
 permalink: /:year/:title:output_ext
+image:
 categories: 
 ---
 
