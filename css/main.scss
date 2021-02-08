@@ -288,7 +288,10 @@ Utility
 .pb1 {padding-bottom: 10px !important;}
 .pb0 {padding-bottom: 0px !important;}
 
-.w10 {width:100%;}
+
+.w100 {width:100%;}
+.w90 {width:90%;}
+
 
 
 /* ---------------------------
@@ -418,5 +421,54 @@ Page - Work
 .page-work {
 	h4 {
 		margin: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+/* ---------------------------
+Mediaquery
+------------------------------ */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 736px) {
+	.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+	  width: 100% !important;
+	}
+
+	.right {
+		text-align: left;
+	}
+
+	body, html {
+		font-size: 44px !important; 
+	}
+
+	header, footer {
+		padding: 2rem 0;
+		font-size: 44px !important;
+	}
+
+	header  { 
+		.col-4 {
+			margin-left: 0 !important;
+		}
+	}
+
+	footer {
+		a {
+			display: block;
+		}
+	}
+
+	h1.post-title {
+		font-size: 98px;
+		line-height: 122px;
 	}
 }
