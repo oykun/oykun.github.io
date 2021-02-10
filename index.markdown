@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oykun Yilmaz, Designer.
-image: /assets/oykun.jpg
+image: /assets/social_image.jpg
 ---
 <div class="max-width">
 	{% for post in site.posts %}

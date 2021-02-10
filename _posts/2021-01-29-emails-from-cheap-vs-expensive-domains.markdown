@@ -3,7 +3,7 @@ layout: post
 title:  "Emails from cheap vs expensive domains"
 date:   2021-01-29 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image:
+image: /assets/social_image.jpg
 categories: 
 ---
 <div class="col-12">
