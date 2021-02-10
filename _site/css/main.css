@@ -51,7 +51,7 @@ a:hover { color: #3c434c; }
 
 blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3rem; margin-left: 0; padding-left: 3rem; font-size: 1.3rem; font-family: Arial; text-align: left; font-weight: 700; }
 
-.post-content { font-family: Georgia, Times, serif; font-size: 20px; }
+.post-content { font-family: Georgia, Times, serif; }
 
 .font-light { font-weight: 300; }
 
@@ -181,7 +181,7 @@ Form
 ------------------------------ */
 footer input { padding: 20px; font-size: 1rem; margin: 0; border: 1px solid #ABABAB; display: block; }
 
-footer .submit { border: 0; background-color: #FFFFFF; color: #1A1A1A; margin: 10px 0 0; }
+footer .submit { border: 0; background-color: #FFFFFF; color: #1A1A1A; }
 
 footer .submit:hover { background-color: #E9E9E9; }
 
@@ -192,7 +192,7 @@ footer .submit:hover { background-color: #E9E9E9; }
 /* ---------------------------
 Blog
 ------------------------------ */
-h1.post-title { font-weight: 100; font-size: 3rem; line-height: 4rem; padding-top: 0; margin-top: 0; }
+h1.post-title { font-weight: 100; font-size: 2.8rem; line-height: 3.5rem; padding-top: 0; margin: 0; }
 
 article { margin-bottom: 4rem; }
 
@@ -226,6 +226,6 @@ Page - Work
 /* ---------------------------
 Mediaquery
 ------------------------------ */
-@media only screen and (min-device-width: 320px) and (max-device-width: 736px) { .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 100% !important; } .right { text-align: left; } body, html { font-size: 24px !important; padding: 0 10px; } header, footer { padding: 2rem 0; } header .col-4 { margin-left: 0 !important; } footer a { display: block; } h1.post-title { font-size: 48px; line-height: 66px; } blockquote { padding-left: 20px; line-height: 44px; } }
+@media only screen and (min-device-width: 320px) and (max-device-width: 736px) { .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 100% !important; } .right { text-align: left; } body, html { font-size: 24px !important; padding: 0 10px; } header, footer { padding: 2rem 0; } header .col-4 { margin-left: 0 !important; } h1.post-title, article h1 { font-size: 48px; line-height: 60px; } blockquote { padding-left: 20px; line-height: 44px; } }
 
 /*# sourceMappingURL=main.css.map */
