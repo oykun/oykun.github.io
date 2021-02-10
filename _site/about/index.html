@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/tachyons.css">
     <link rel="stylesheet" href="/css/main.css">
     <meta charset="utf-8">
     <title>Oykun Yilmaz, About</title>
@@ -23,84 +25,68 @@
   </head>
   <body>
 
-    <div class="container">
-  
-      <div class="row">
-        <div class="col-12">
-<header>
-	
+    <header class="max-width">
 	<a href="http://localhost:4000">Oykun</a> is a designer.
 
-	<div class="row">
-		<nav>
-			<div class="col-8 ml0">	
+	<nav>
+		<div class="flex flex-wrap justify-between">
+			<div>
 				<a href="http://localhost:4000">Blog</a>
 				<a href="/about">About</a>
 				<a href="/work">Work</a>
 				<a href="https://twitter.com/oykun">Twitter</a>
 			</div>
-			<div class="col-4 right">
-				<a href="/subscribe" title="Subscribe for lessons, experiments and updates..." class="btn-outlined">Subscribe</a>
-			</div>
-		</nav>
-	</div>	
 
+			<a href="/subscribe" title="Subscribe for lessons, experiments and updates..." class="btn-outlined">Subscribe</a>
+		</div>
+	</nav>
 </header>
-</div>
-      </div>
-  
-      <div class="row">
-        <div class="row">
-	<div class="col-3">
-		<img src="/assets/oykun.jpg" width="200px" /> 
+
+
+    <div class="max-width">
+	<div class="flex flex-wrap justify-between">
+	<div class="w-25">
+		<img src="/assets/oykun.jpg" /> 
 	</div>
-	<div class="col-1"></div>
-	<div class="col-8">
+	<div class="w-70-l font-serif">
 		<p class="mt0 pt0">I'm Öykün Yılmaz, an ex-developer turned designer, based in London UK, with curiosity and passion for simplicity in design. In my 20 years of experience, I've been fortunate enough to work with great teams on many successful projects that has been featured in iOS App Stores, TechCrunch, The Sunday Times, The Independent and many other tech blogs and printed press.</p>
 		<p>During my career, I've taken the role of multiple disciplines from development to design, project management, creative direction at many projects in various sectors from finance to healthcare, entertainment, telecommunication, education and more, including clients such as Garanti Bank, Turkcell, Adobe, John Hopkins, Cooper Union, Musixmatch and various startups.</p>
 		<p>-</p>
 	</div>
 </div>
 
-<div class="row mt5">
-	<div class="col-3">
-		<h5>Get connected</h5>
-		<p class="clean-links">
-			<a href="https://twitter.com/oykun" title="@oykun">Twitter</a> <br />
-			<a href="https://instagram.com/oykun" title="@oykun">Instagram</a> <br />
-			<a href="https://www.linkedin.com/in/oykun/" title="oykun">LinkedIn</a> <br />
-			<a href="https://www.behance.net/oykun" title="oykun">Behance</a> <br />
-			<a href="https://www.dribbble.com/oykun" title="oykun">Dribbble</a> <br />
-			<a href="https://www.facebook.com/oykunyilmaz" title="oykunyilmaz">Facebook</a> <br />
-			<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email</a> <br />
-		</p>
-	</div>
-	<div class="col-1"></div>
-	<div class="col-8">
-		<h5>About this website</h5>
-		<p>This website is intentionally designed and built in a very simple way by me. It is using <a href="https://jekyllrb.com" title="Jekyll">Jekyll</a> and hosted on <a href="https://pages.github.com" title="Github Pages">Github Pages</a>.</p>
-		<p>This system allows me to run my website and blog without managing any database, but simple markdown files. I enjoy the simplicity and security of this system. Regarding the typography, currently it is using Georgia for Serif, and Arial for Sans Serif.</p>
+<div class="max-width mt5">
+	<div class="flex flex-wrap justify-between">
+		<div class="w-25-l">
+			<h5>Get connected</h5>
+			<p class="clean-links">
+				<a href="https://twitter.com/oykun" title="@oykun">Twitter</a> <br />
+				<a href="https://instagram.com/oykun" title="@oykun">Instagram</a> <br />
+				<a href="https://www.linkedin.com/in/oykun/" title="oykun">LinkedIn</a> <br />
+				<a href="https://www.behance.net/oykun" title="oykun">Behance</a> <br />
+				<a href="https://www.dribbble.com/oykun" title="oykun">Dribbble</a> <br />
+				<a href="https://www.facebook.com/oykunyilmaz" title="oykunyilmaz">Facebook</a> <br />
+				<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email</a> <br />
+			</p>
+		</div>
+		<div class="w-70-l font-serif">
+			<h5>About this website</h5>
+			<p>This website is intentionally designed and built in a very simple way by me. It is using <a href="https://jekyllrb.com" title="Jekyll">Jekyll</a> and hosted on <a href="https://pages.github.com" title="Github Pages">Github Pages</a>.</p>
+			<p>This system allows me to run my website and blog without managing any database, but simple markdown files. I enjoy the simplicity and security of this system. Regarding the typography, currently it is using Georgia for Serif, and Arial for Sans Serif.</p>
+		</div>
 	</div>
 </div>
+</div>
 
-      </div>
-  
-      <div class="row">
-        
-<footer>
+    
+    <footer class="max-width">
 	<form action="https://buttondown.email/api/emails/embed-subscribe/oykun" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/oykun', 'popupwindow')" class="embeddable-buttondown-form">
 
-		<div class="row">
-			<div class="col-12">
-				<input type="email" name="email" id="bd-email" class="w100" placeholder="Your email for lessons, experiments and updates...">
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-4">
-				<input type="submit" value="→ Subscribe" class="submit">
-			</div>
-			<div class="col-8 pt2 right">
+		<input type="email" name="email" id="bd-email" class="w-100-l" placeholder="Your email for lessons, experiments and updates...">
+	
+		<div class="flex justify-between flex-wrap">
+			<input type="submit" value="→ Subscribe" class="submit w-20-l">
+			<div class="pt2 tr w-80-l">
 				<a href="https://twitter.com/oykun" title="@oykun">Twitter</a>
 				<a href="https://instagram.com/oykun" title="@oykun">Instagram</a>
 				<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email</a>
@@ -108,13 +94,10 @@
 				© 2021.
 			</div>
 		</div>
+
 		<input type="hidden" value="1" name="embed">
 	</form>
-
 </footer>
-      </div>
-  
-    </div>
 
     <script>
 	(function (i, s, o, g, r, a, m) {

@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/tachyons.css">
     <link rel="stylesheet" href="/css/main.css">
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
@@ -8,21 +10,11 @@
   </head>
   <body>
 
-    <div class="container">
-  
-      <div class="row">
-        {% include header.html %}
-      </div>
-  
-      <div class="row">
-        {{ content }}
-      </div>
-  
-      <div class="row">
-        {% include footer.html %}
-      </div>
-  
-    </div>
+    {% include header.html %}
+
+    {{ content }}
+    
+    {% include footer.html %}
 
     {% include analytics.html %}
   

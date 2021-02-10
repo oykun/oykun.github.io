@@ -1,12 +1,7 @@
----
-layout: default
-title: Oykun Yilmaz, About
-permalink: /about/
----
-<div class="max-width">
+I"�<div class="max-width">
 	<div class="flex flex-wrap justify-between">
 	<div class="w-25">
-		<img src="/assets/oykun.jpg"> 
+		<img src="/assets/oykun.jpg" /> 
 	</div>
 	<div class="w-70-l font-serif">
 		<p class="mt0 pt0">I'm Öykün Yılmaz, an ex-developer turned designer, based in London UK, with curiosity and passion for simplicity in design. In my 20 years of experience, I've been fortunate enough to work with great teams on many successful projects that has been featured in iOS App Stores, TechCrunch, The Sunday Times, The Independent and many other tech blogs and printed press.</p>
@@ -20,13 +15,13 @@ permalink: /about/
 		<div class="w-25-l">
 			<h5>Get connected</h5>
 			<p class="clean-links">
-				<a href="https://twitter.com/oykun" title="@oykun">Twitter</a> <br>
-				<a href="https://instagram.com/oykun" title="@oykun">Instagram</a> <br>
-				<a href="https://www.linkedin.com/in/oykun/" title="oykun">LinkedIn</a> <br>
-				<a href="https://www.behance.net/oykun" title="oykun">Behance</a> <br>
-				<a href="https://www.dribbble.com/oykun" title="oykun">Dribbble</a> <br>
-				<a href="https://www.facebook.com/oykunyilmaz" title="oykunyilmaz">Facebook</a> <br>
-				<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email</a> <br>
+				<a href="https://twitter.com/oykun" title="@oykun">Twitter</a> <br />
+				<a href="https://instagram.com/oykun" title="@oykun">Instagram</a> <br />
+				<a href="https://www.linkedin.com/in/oykun/" title="oykun">LinkedIn</a> <br />
+				<a href="https://www.behance.net/oykun" title="oykun">Behance</a> <br />
+				<a href="https://www.dribbble.com/oykun" title="oykun">Dribbble</a> <br />
+				<a href="https://www.facebook.com/oykunyilmaz" title="oykunyilmaz">Facebook</a> <br />
+				<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email</a> <br />
 			</p>
 		</div>
 		<div class="w-70-l font-serif">
@@ -36,3 +31,5 @@ permalink: /about/
 		</div>
 	</div>
 </div>
+</div>
+:ET

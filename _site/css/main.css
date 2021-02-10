@@ -2,52 +2,13 @@
 Variables
 ------------------------------ */
 /* ---------------------------
-12 Grid System
+Layout
 ------------------------------ */
 html, body { height: 100%; width: 100%; margin: 0; padding: 0; left: 0; top: 0; }
 
-.container { width: 90%; max-width: 45rem; margin-left: auto; margin-right: auto; }
+.max-width { max-width: 800px; margin-left: auto; margin-right: auto; }
 
-@media (max-width: 60em) { .container { font-size: 24px; } }
-
-.row { position: relative; width: 100%; }
-
-.row [class^="col"] { float: left; margin: 0.5rem 2%; min-height: 0.125rem; }
-
-.row::after { content: ""; display: table; clear: both; }
-
-.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 96%; }
-
-.col-1-sm { width: 4.3333333333%; }
-
-.col-2-sm { width: 12.6666666667%; }
-
-.col-3-sm { width: 21%; }
-
-.col-4-sm { width: 29.3333333333%; }
-
-.col-5-sm { width: 37.6666666667%; }
-
-.col-6-sm { width: 46%; }
-
-.col-7-sm { width: 54.3333333333%; }
-
-.col-8-sm { width: 62.6666666667%; }
-
-.col-9-sm { width: 71%; }
-
-.col-10-sm { width: 79.3333333333%; }
-
-.col-11-sm { width: 87.6666666667%; }
-
-.col-12-sm { width: 96%; }
-
-@media only screen and (min-width: 45em) { .col-1 { width: 4.3333333333%; } .col-2 { width: 12.6666666667%; } .col-3 { width: 21%; } .col-4 { width: 29.3333333333%; } .col-5 { width: 37.6666666667%; } .col-6 { width: 46%; } .col-7 { width: 54.3333333333%; } .col-8 { width: 62.6666666667%; } .col-9 { width: 71%; } .col-10 { width: 79.3333333333%; } .col-11 { width: 87.6666666667%; } .col-12 { width: 96%; } .hidden-sm { display: block; } }
-
-/* ---------------------------
-Layout
------------------------------- */
-header, footer { padding: 4rem 0; font-family: Arial, Helvetica, sans-serif; }
+header, footer { padding: 4rem 0; }
 
 footer { margin-top: 2rem; color: #828282; }
 
@@ -66,7 +27,7 @@ Typography
 ------------------------------ */
 * { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-html, body { font-size: 18px; font-family: Georgia, Times, serif; color: #1A1A1A; line-height: 1.7; }
+html, body { font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: #1A1A1A; line-height: 1.7; }
 
 h1, h2, h3, h4, h5 { font-family: Arial, Helvetica, sans-serif; }
 
@@ -90,11 +51,15 @@ a:hover { color: #3c434c; }
 
 blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3rem; margin-left: 0; padding-left: 3rem; font-size: 1.3rem; font-family: Arial; text-align: left; font-weight: 700; }
 
+.post-content { font-family: Georgia, Times, serif; font-size: 20px; }
+
 .font-light { font-weight: 300; }
 
 .font-regular { font-weight: 400; }
 
 .font-heavy { font-weight: 700; }
+
+.font-serif { font-family: Georgia, Times, serif; }
 
 .text-large { font-size: 1.2rem; }
 
@@ -220,7 +185,7 @@ footer .submit { border: 0; background-color: #FFFFFF; color: #1A1A1A; margin: 1
 
 footer .submit:hover { background-color: #E9E9E9; }
 
-.btn-outlined { color: #3c434c; background-color: #FFFFFF; border: 1px solid #828282; padding: 8px 16px; border-radius: 5px; font-size: 0.9rem; }
+.btn-outlined { color: #3c434c; background-color: #FFFFFF; border: 1px solid #828282; padding: 6px 16px; border-radius: 5px; font-size: 0.9rem; }
 
 .btn-outlined:hover { background-color: #E9E9E9; border-color: #E9E9E9; }
 
@@ -261,6 +226,6 @@ Page - Work
 /* ---------------------------
 Mediaquery
 ------------------------------ */
-@media only screen and (min-device-width: 320px) and (max-device-width: 736px) { .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 100% !important; } .right { text-align: left; } body, html { font-size: 44px !important; } header, footer { padding: 2rem 0; font-size: 44px !important; } header .col-4 { margin-left: 0 !important; } footer a { display: block; } h1.post-title { font-size: 98px; line-height: 122px; } }
+@media only screen and (min-device-width: 320px) and (max-device-width: 736px) { .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 100% !important; } .right { text-align: left; } body, html { font-size: 24px !important; padding: 0 10px; } header, footer { padding: 2rem 0; } header .col-4 { margin-left: 0 !important; } footer a { display: block; } h1.post-title { font-size: 48px; line-height: 66px; } blockquote { padding-left: 20px; line-height: 44px; } }
 
 /*# sourceMappingURL=main.css.map */

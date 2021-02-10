@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/tachyons.css">
     <link rel="stylesheet" href="/css/main.css">
     <meta charset="utf-8">
     <title>If it works for you, it's not dead</title>
@@ -25,41 +27,30 @@
   </head>
   <body>
 
-    <div class="container">
-  
-      <div class="row">
-        <div class="col-12">
-<header>
-	
+    <header class="max-width">
 	<a href="http://localhost:4000">Oykun</a> is a designer.
 
-	<div class="row">
-		<nav>
-			<div class="col-8 ml0">	
+	<nav>
+		<div class="flex flex-wrap justify-between">
+			<div>
 				<a href="http://localhost:4000">Blog</a>
 				<a href="/about">About</a>
 				<a href="/work">Work</a>
 				<a href="https://twitter.com/oykun">Twitter</a>
 			</div>
-			<div class="col-4 right">
-				<a href="/subscribe" title="Subscribe for lessons, experiments and updates..." class="btn-outlined">Subscribe</a>
-			</div>
-		</nav>
-	</div>	
 
+			<a href="/subscribe" title="Subscribe for lessons, experiments and updates..." class="btn-outlined">Subscribe</a>
+		</div>
+	</nav>
 </header>
-</div>
-      </div>
-  
-      <div class="row">
-        <div class="row">
-	<div class="col-12">
-		<h1 class="post-title col-10">If it works for you, it's not dead</h1>
-		<p class="text-grey">January 28, 2021</p>
-	</div>
+
+
+    <div class="max-width">
+	<h1 class="post-title col-10">If it works for you, it's not dead</h1>
+	<p class="text-grey">January 28, 2021</p>
 </div>
 
-<div class="post-content">
+<div class="post-content max-width">
 	<div class="col-12">
 	<p>I've been using <a href="https://rubyonrails.org" title="Ruby on Rails" targer="_blank">Ruby on Rails</a> for a few years now. It's the framework enabled me to build the products I have always wanted. However whenever I research anything about RoR online, I often come across an article argues how RoR is irrelevant in recent years, how it has no future and no one should waste time with it. Here I could write a long article argues otherwise with presenting data from <a href="https://trends.builtwith.com/framework" target="_blank">builtwith website research</a> and all the <a href="https://remoteok.io/remote-ruby-jobs" target="_blank">job listings for Ruby</a>, but  I’m not here to defend RoR, I want to focus on a different point.</p>
 	<p>Ruby on Rails is just a tool to build our ideas, just like what Sketch or Figma is for designers. It works for some people and doesn’t for others. Don't waste your time trying to decide what framework to use or if you should change your existing framework because of a new flashy framework. If you're productive with what you have and enjoy using it, don't distract yourself with what others are using and go with whatever works for you.</p>
@@ -69,12 +60,12 @@
 
 </div>
 
-<p class="col-12">-</p>
+<div class="max-width">
+	<p class="mb4">-</p>
 
-<p class="col-12 mt4">You can <a href="https://twitter.com/oykun">reach out to me on Twitter @oykun</a> or <a href="mailto:hello@oykun.com">via email</a> if you have any questions about this post.</p>
+	<p>You can <a href="https://twitter.com/oykun">reach out to me on Twitter @oykun</a> or <a href="mailto:hello@oykun.com">via email</a> if you have any questions about this post.</p>
 
-
-
+	
 
 <div class="col-12">
     <div id="share-buttons" class="mt3">
@@ -100,26 +91,16 @@
 
     </div>
 </div>
-
-
-      </div>
-  
-      <div class="row">
-        
-<footer>
+</div>
+    
+    <footer class="max-width">
 	<form action="https://buttondown.email/api/emails/embed-subscribe/oykun" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/oykun', 'popupwindow')" class="embeddable-buttondown-form">
 
-		<div class="row">
-			<div class="col-12">
-				<input type="email" name="email" id="bd-email" class="w100" placeholder="Your email for lessons, experiments and updates...">
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-4">
-				<input type="submit" value="→ Subscribe" class="submit">
-			</div>
-			<div class="col-8 pt2 right">
+		<input type="email" name="email" id="bd-email" class="w-100-l" placeholder="Your email for lessons, experiments and updates...">
+	
+		<div class="flex justify-between flex-wrap">
+			<input type="submit" value="→ Subscribe" class="submit w-20-l">
+			<div class="pt2 tr w-80-l">
 				<a href="https://twitter.com/oykun" title="@oykun">Twitter</a>
 				<a href="https://instagram.com/oykun" title="@oykun">Instagram</a>
 				<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email</a>
@@ -127,13 +108,10 @@
 				© 2021.
 			</div>
 		</div>
+
 		<input type="hidden" value="1" name="embed">
 	</form>
-
 </footer>
-      </div>
-  
-    </div>
 
     <script>
 	(function (i, s, o, g, r, a, m) {

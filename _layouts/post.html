@@ -1,22 +1,19 @@
 ---
 layout: default
 ---
-
-<div class="row">
-	<div class="col-12">
-		<h1 class="post-title col-10">{{ page.title }}</h1>
-		<p class="text-grey">{{ page.date | date: "%B %-d, %Y" }}</p>
-	</div>
+<div class="max-width">
+	<h1 class="post-title col-10">{{ page.title }}</h1>
+	<p class="text-grey">{{ page.date | date: "%B %-d, %Y" }}</p>
 </div>
 
-<div class="post-content">
+<div class="post-content max-width">
 	{{ content }}
 </div>
 
-<p class="col-12">-</p>
+<div class="max-width">
+	<p class="mb4">-</p>
 
-<p class="col-12 mt4">You can <a href="https://twitter.com/oykun">reach out to me on Twitter @oykun</a> or <a href="mailto:hello@oykun.com">via email</a> if you have any questions about this post.</p>
+	<p>You can <a href="https://twitter.com/oykun">reach out to me on Twitter @oykun</a> or <a href="mailto:hello@oykun.com">via email</a> if you have any questions about this post.</p>
 
-
-{% include share-buttons.html %}
-
+	{% include share-buttons.html %}
+</div>

@@ -1,14 +1,7 @@
----
-layout: default
-title: Oykun Yilmaz, Work
-permalink: /work/
----
-
-<div class="max-width">
+I"ó<div class="max-width">
 	<p class="text-grey"><i>Detailed case studies are coming soon. Meanwhile you can see a simple timeline of a few selected projects below, designs at <a href="https://dribbble.com/oykun" title="Dribbble @oykun">Dribbble</a> and view my career story at <a href="https://www.linkedin.com/in/oykun/" title="Linkedin @oykun">LinkedIn</a>.</i></p>
 
 </div>
-
 
 <div class="max-width">
 	<div class="flex flex-wrap justify-between">
@@ -60,3 +53,4 @@ permalink: /work/
 		</div>
 	</div>
 </div>
+:ET
