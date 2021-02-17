@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Oykun Yilmaz, Designer based in London, UK.
+title: Oykun Yilmaz, Designer.
+tagline: Oykun's personal website and blog on design, development and lessons learned in life.   
 image: /assets/social_image.jpg
 ---
 <div class="max-width">
