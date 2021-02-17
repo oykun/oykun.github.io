@@ -1,49 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/tachyons.css">
-    <link rel="stylesheet" href="/css/main.css">
-    <meta charset="utf-8">
-    <title>Oykun Yilmaz, Work</title>
-    <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Oykun Yilmaz, Work | Oykun Yilmaz</title>
-<meta name="generator" content="Jekyll v4.0.1" />
-<meta property="og:title" content="Oykun Yilmaz, Work" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Designer based in London." />
-<meta property="og:description" content="Designer based in London." />
-<link rel="canonical" href="http://localhost:4000/work/" />
-<meta property="og:url" content="http://localhost:4000/work/" />
-<meta property="og:site_name" content="Oykun Yilmaz" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Oykun Yilmaz, Work" />
-<script type="application/ld+json">
-{"headline":"Oykun Yilmaz, Work","description":"Designer based in London.","url":"http://localhost:4000/work/","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-  <body>
-
-    <header class="max-width">
-	<a href="http://localhost:4000">Oykun</a> is a designer.
-
-	<nav>
-		<div class="flex flex-wrap items-center justify-between">
-			<div class="">
-				<a href="http://localhost:4000">Blog</a>
-				<a href="/about">About</a>
-				<a href="/work">Work</a>
-				<a href="https://twitter.com/oykun">Twitter</a>
-			</div>
-
-			<a href="/subscribe" title="Subscribe for lessons, experiments and updates..." class="btn-outlined">Subscribe</a>
-		</div>
-	</nav>
-</header>
-
-
-    <div class="max-width">
+I"K<div class="max-width">
 	<p class="text-grey"><i>Detailed case studies are coming soon. Meanwhile you can see a simple timeline of a few selected projects below, designs at <a href="https://dribbble.com/oykun" title="Dribbble @oykun">Dribbble</a> and view my career story at <a href="https://www.linkedin.com/in/oykun/" title="Linkedin @oykun">LinkedIn</a>.</i></p>
 
 </div>
@@ -98,41 +53,4 @@
 		</div>
 	</div>
 </div>
-
-    
-    <footer class="max-width">
-	<form action="https://buttondown.email/api/emails/embed-subscribe/oykun" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/oykun', 'popupwindow')" class="embeddable-buttondown-form">
-
-		<input type="email" name="email" id="bd-email" class="w-100" placeholder="Your email for lessons, experiments and updates...">
-	
-		<div class="flex justify-between items-center flex-wrap mt2">
-			<input type="submit" value="→ Subscribe" class="submit w-20-l">
-			<div class="tr-l w-80-l">
-				<a href="https://twitter.com/oykun" title="@oykun">Twitter</a>
-				<a href="https://instagram.com/oykun" title="@oykun">Instagram</a>
-				<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email</a>
-				<a href="https://oykun.com/feed.xml">RSS</a>
-				© 2021
-			</div>
-		</div>
-
-		<input type="hidden" value="1" name="embed">
-	</form>
-
-	<p class="text-grey tc text-small mt4 i">This website is under construction. I'm building it publicly while writing blog articles.</p>
-</footer>
-
-    <script>
-	(function (i, s, o, g, r, a, m) {
-		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-			(i[r].q = i[r].q || []).push(arguments)
-		}, i[r].l = 1 * new Date(); a = s.createElement(o),
-			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-	})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-	ga('create', 'UA-613438-6', 'auto');
-	ga('send', 'pageview');
-</script>
-  
-  </body>
-</html>
+:ET
