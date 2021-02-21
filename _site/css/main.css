@@ -179,13 +179,13 @@ Utility
 /* ---------------------------
 Form
 ------------------------------ */
-footer input { padding: 20px; font-size: 1rem; margin: 0; border: 1px solid #ABABAB; display: block; }
+footer input { padding: 20px; font-size: 1rem; margin: 0; border: 1px solid #ABABAB; display: block; border-radius: 4px; }
 
-footer .submit { border: 0; background-color: #FFFFFF; color: #1A1A1A; padding-left: 0; }
+footer .submit { border: 0; background-color: #1A1A1A; color: #FFFFFF; }
 
-footer .submit:hover { padding-left: 5px; }
+footer .submit:hover { background-color: #3c434c; }
 
-.btn-outlined { color: #3c434c; background-color: #FFFFFF; border: 1px solid #828282; padding: 6px 16px; border-radius: 5px; font-size: 0.9rem; }
+.btn-outlined { color: #3c434c; background-color: #FFFFFF; border: 1px solid #828282; padding: 6px 16px; border-radius: 4px; font-size: 0.9rem; }
 
 .btn-outlined:hover { background-color: #E9E9E9; border-color: #E9E9E9; }
 
