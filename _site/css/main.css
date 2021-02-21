@@ -181,9 +181,9 @@ Form
 ------------------------------ */
 footer input { padding: 20px; font-size: 1rem; margin: 0; border: 1px solid #ABABAB; display: block; }
 
-footer .submit { border: 0; background-color: #FFFFFF; color: #1A1A1A; }
+footer .submit { border: 0; background-color: #FFFFFF; color: #1A1A1A; padding-left: 0; }
 
-footer .submit:hover { background-color: #E9E9E9; }
+footer .submit:hover { padding-left: 5px; }
 
 .btn-outlined { color: #3c434c; background-color: #FFFFFF; border: 1px solid #828282; padding: 6px 16px; border-radius: 5px; font-size: 0.9rem; }
 
@@ -226,6 +226,6 @@ Page - Work
 /* ---------------------------
 Mediaquery
 ------------------------------ */
-@media only screen and (min-device-width: 320px) and (max-device-width: 736px) { .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 100% !important; } .right { text-align: left; } body, html { font-size: 22px !important; padding: 0 10px; } header, footer { padding: 2rem 0; } header .col-4 { margin-left: 0 !important; } h1.post-title, article h1 { font-size: 48px; line-height: 60px; } blockquote { padding-left: 20px; line-height: 44px; } }
+@media only screen and (min-device-width: 320px) and (max-device-width: 736px) { .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 100% !important; } .right { text-align: left; } body, html { font-size: 22px !important; padding: 0 10px; } header, footer { padding: 2rem 0; } header .col-4 { margin-left: 0 !important; } nav .btn-outlined { margin-top: 20px; } h1.post-title, article h1 { font-size: 44px; line-height: 60px; } blockquote { padding-left: 20px; line-height: 44px; } }
 
 /*# sourceMappingURL=main.css.map */

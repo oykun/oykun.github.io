@@ -261,9 +261,10 @@ footer {
 		border: 0;
 		background-color: $white;
 		color: $black;
+		padding-left: 0;
 
 		&:hover {
-			background-color: $light;
+			padding-left: 5px;
 		}
 	}
 }
@@ -410,8 +411,14 @@ and (max-device-width : 736px) {
 		}
 	}
 
+	nav {
+		.btn-outlined {
+			margin-top: 20px;
+		}
+	}
+
 	h1.post-title, article h1 {
-		font-size: 48px;
+		font-size: 44px;
 		line-height: 60px;
 	}
 
