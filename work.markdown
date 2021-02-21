@@ -4,8 +4,8 @@ title: Oykun Yilmaz, Work
 permalink: /work/
 ---
 
-<div class="max-width mb5">
-	<p>I'm humbled to get many job offers from <a href="https://en.wikipedia.org/wiki/Big_Tech#FAANG">FAANG</a> in years, however I've chosen the path of freelancing and working with people to build products from an idea phase to release by involving many aspects including project planning, team management, branding, design, development, marketing and so on...</p>
+<div class="max-width mb5 font-serif">
+	<p>I'm humbled to get many job offers from big corportions including <a href="https://en.wikipedia.org/wiki/Big_Tech#FAANG">FAANG</a> in years, however I've chosen the path of freelancing and working with people to build products from an idea phase to reality by involving many aspects including project planning, team management, branding, design, development, marketing and so on...</p>
 	<p>Below is a list of few projects I have involved from early days. Detailed case studies are coming soon. Meanwhile you can see some of my designs at <a href="https://dribbble.com/oykun" title="Dribbble @oykun">Dribbble</a> and more about my career at <a href="https://www.linkedin.com/in/oykun/" title="Linkedin @oykun">LinkedIn</a>.</p>
 </div>
 
