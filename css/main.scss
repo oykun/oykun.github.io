@@ -322,6 +322,21 @@ article {
 }
 
 .post-content {
+	h2 {
+		font-family: $font-serif;
+		font-weight: $font-weight-light;
+	}
+
+	p.indent-speech {
+		font-style: italic;
+		margin: 1.4rem 0;
+		padding: 0 3rem;
+
+		&:first-letter {
+			font-weight: bold;
+		}
+	}
+
 	img {
 		max-width: 100%;
 	}
@@ -331,7 +346,6 @@ article {
 		background: $light url("/assets/bg-nature.jpg");
 		background-repeat: no-repeat;
 		background-size: auto;
-
 
 		img {
 			width: 80%;
