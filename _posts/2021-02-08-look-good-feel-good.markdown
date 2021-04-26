@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "An overlooked factor in keeping a good mood while working from home"
+title:  "Look Good, Feel Good"
 date:   2021-02-08 00:01:01 +0000
 permalink: /:year/:title:output_ext
 image: /assets/lookgood-feelgood-1.jpg
 categories: 
 ---
+<h2>An overlooked factor in keeping a good mood while working from home</h2>
 
 <p>Most of us, designers, are working from home now and we are lucky to be able to do that. However it certainly comes with its challenges with staying creative and motivated. Especially if you are not used to work from home.</p>
 
