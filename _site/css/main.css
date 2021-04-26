@@ -43,13 +43,13 @@ h4 { font-size: 1.125rem; }
 
 h5 { font-size: 1rem; }
 
-p { font-weight: 400; line-height: 1.7; }
+p { font-weight: 400; line-height: 1.7; margin-bottom: 2rem; }
 
 a { color: #3c434c; }
 
 a:hover { color: #3c434c; }
 
-blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3rem; margin-left: 0; padding-left: 3rem; font-size: 1.3rem; font-family: Arial; text-align: left; font-weight: 700; }
+blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3rem; margin-left: 0; padding-left: 3rem; font-size: 1.3rem; font-family: Arial, Helvetica, sans-serif; text-align: left; font-weight: 700; }
 
 .post-content { font-family: Georgia, Times, serif; }
 
@@ -98,7 +98,7 @@ Utility
 
 .mt1 { margin-top: 10px !important; }
 
-.mt0 { margin-top: 0px !important; }
+.mt0 { margin-top: 0 !important; }
 
 .mr5 { margin-right: 50px !important; }
 
@@ -110,7 +110,7 @@ Utility
 
 .mr1 { margin-right: 10px !important; }
 
-.mr0 { margin-right: 0px !important; }
+.mr0 { margin-right: 0 !important; }
 
 .mb5 { margin-bottom: 50px !important; }
 
@@ -122,7 +122,7 @@ Utility
 
 .mb1 { margin-bottom: 10px !important; }
 
-.mb0 { margin-bottom: 0px !important; }
+.mb0 { margin-bottom: 0 !important; }
 
 .ml5 { margin-left: 50px !important; }
 
@@ -134,7 +134,7 @@ Utility
 
 .ml1 { margin-left: 10px !important; }
 
-.ml0 { margin-left: 0px !important; }
+.ml0 { margin-left: 0 !important; }
 
 .pt5 { padding-top: 50px !important; }
 
@@ -146,7 +146,7 @@ Utility
 
 .pt1 { padding-top: 10px !important; }
 
-.pt0 { padding-top: 0px !important; }
+.pt0 { padding-top: 0 !important; }
 
 .pr5 { padding-right: 50px !important; }
 
@@ -158,7 +158,7 @@ Utility
 
 .pr1 { padding-right: 10px !important; }
 
-.pr0 { padding-right: 0px !important; }
+.pr0 { padding-right: 0 !important; }
 
 .pb5 { padding-bottom: 50px !important; }
 
@@ -170,7 +170,7 @@ Utility
 
 .pb1 { padding-bottom: 10px !important; }
 
-.pb0 { padding-bottom: 0px !important; }
+.pb0 { padding-bottom: 0 !important; }
 
 .w100 { width: 100%; }
 
@@ -202,7 +202,7 @@ article a { width: 100%; display: block; color: #1A1A1A; text-decoration: none; 
 
 article time { color: #828282; font-family: Arial, Helvetica, sans-serif; }
 
-.post-content h2 { font-family: Georgia, Times, serif; font-weight: 300; }
+.post-content h2 { font-family: Georgia, Times, serif; font-weight: 300; line-height: 3rem; }
 
 .post-content p.indent-speech { font-style: italic; margin: 1.4rem 0; padding: 0 3rem; }
 
@@ -210,7 +210,7 @@ article time { color: #828282; font-family: Arial, Helvetica, sans-serif; }
 
 .post-content img { max-width: 100%; }
 
-.post-content .img-grey-bg { text-align: center; background: #E9E9E9 url("/assets/bg-nature.jpg"); background-repeat: no-repeat; background-size: auto; }
+.post-content .img-grey-bg { text-align: center; background: #E9E9E9 url("/assets/bg-nature.jpg") no-repeat; background-size: auto; }
 
 .post-content .img-grey-bg img { width: 80%; margin: 20px auto; }
 
