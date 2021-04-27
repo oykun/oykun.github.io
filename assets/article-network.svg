@@ -4,13 +4,13 @@
 <line x1="120" y1="124.75" x2="280" y2="124.75" stroke="black" stroke-width="0.5"/>
 <line x1="143.177" y1="67.8232" x2="256.314" y2="180.96" stroke="black" stroke-width="0.5"/>
 <line x1="142.823" y1="180.823" x2="255.96" y2="67.6861" stroke="black" stroke-width="0.5"/>
-<circle cx="200" cy="45" r="7" fill="black"/>
-<circle cx="143" cy="68" r="7" fill="black"/>
-<circle cx="200" cy="205" r="7" fill="black"/>
-<circle cx="143" cy="182" r="7" fill="black"/>
-<circle cx="120" cy="125" r="7" fill="black"/>
-<circle cx="280" cy="125" r="7" fill="black"/>
-<circle cx="257" cy="182" r="7" fill="black"/>
-<circle cx="256" cy="68" r="7" fill="black"/>
-<circle cx="200" cy="125" r="11" fill="black"/>
+<circle cx="200" cy="45" r="8" fill="black"/>
+<circle cx="143" cy="68" r="8" fill="black"/>
+<circle cx="200" cy="205" r="8" fill="black"/>
+<circle cx="143" cy="181" r="8" fill="black"/>
+<circle cx="120" cy="125" r="8" fill="black"/>
+<circle cx="280" cy="125" r="8" fill="black"/>
+<circle cx="256" cy="181" r="8" fill="black"/>
+<circle cx="256" cy="68" r="8" fill="black"/>
+<circle cx="201" cy="126" r="11" fill="black"/>
 </svg>
