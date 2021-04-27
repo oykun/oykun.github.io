@@ -1,0 +1,15 @@
+<svg width="400" height="250" viewBox="0 0 400 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="250" fill="white"/>
+<circle cx="297" cy="111" r="7" fill="black"/>
+<circle cx="326" cy="111" r="7" fill="black"/>
+<circle cx="326" cy="140" r="7" fill="black"/>
+<circle cx="326" cy="169" r="7" fill="black"/>
+<circle cx="297" cy="140" r="7" fill="black"/>
+<circle cx="297" cy="169" r="7" fill="black"/>
+<circle cx="125" cy="123" r="7" fill="black"/>
+<circle cx="297" cy="82" r="7" fill="black"/>
+<circle cx="326" cy="82" r="7" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M249 133C255.627 133 261 127 261 125C261 123 255.627 117 249 117C242.373 117 237 123 237 125C237 127 242.373 133 249 133ZM253 129C255.209 129 257 127.209 257 125C257 122.791 255.209 121 253 121C250.791 121 249 122.791 249 125C249 127.209 250.791 129 253 129Z" fill="black"/>
+<path d="M94 122C94 124 88.6274 130 82 130C75.3726 130 70 124 70 122C70 120.423 73.3392 116.36 78 114.711C79.2511 114.268 80.5975 116 82 116C83.4025 116 84.7489 114.268 86 114.711C90.6608 116.36 94 120.423 94 122Z" fill="black"/>
+<path d="M73 121.5C73 121.5 79 122.5 82 122.5C85 122.5 91 121.5 91 121.5" stroke="white" stroke-linecap="round"/>
+</svg>

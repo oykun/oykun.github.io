@@ -3,7 +3,7 @@ layout: post
 title:  "New Challenges"
 date:   2021-04-26 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image: 
+image: /assets/article-challenge.svg
 categories: 
 ---
 <h2>Don't fear to take new challenges bigger than you've ever dealt with. Remember, we don't grow when things are easy, we grow when we face challenges.</h2>

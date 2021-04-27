@@ -3,7 +3,7 @@ layout: post
 title:  "Self-taught with Passion"
 date:   2013-05-02 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image: /assets/social_image.jpg
+image: /assets/article-passion.svg
 categories: 
 ---
 
