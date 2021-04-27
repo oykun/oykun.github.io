@@ -47,7 +47,7 @@ body {
   height: 100%;
   width: 100%;
   margin: 0;
-  padding: 0;
+  padding: 0 20px;
   left: 0;
   top: 0;
 }
@@ -575,8 +575,8 @@ Mediaquery
   }
 
   body, html {
-    font-size: 22px !important;
-    padding: 0 10px;
+    font-size: 20px !important;
+    padding: 0 20px !important;
   }
 
   header, footer {
