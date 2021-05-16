@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Oykun Yilmaz, Designer.
-tagline: Oykun's personal website and blog on design, development and lessons learned in life.   
-description: Oykun's personal website and blog on design, development and lessons learned in life.   
+title: "Oykun Yilmaz, Designer."
+tagline: "Personal website and blog on design, development and lessons learned in life."
+description: "Personal website and blog on design, development and lessons learned in life."  
 image: /assets/social_image.jpg
 ---
 <div>
