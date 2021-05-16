@@ -14,7 +14,7 @@ image: /assets/social_image.jpg
                     <time datetime="{{ post.date | date: '%B %-d, %Y' }}" class="text-grey text-small">{{ post.date | date: "%B %-d, %Y" }}</time>
                 </div>
                 <div class="w-40-l tc">
-                    <a href="{{ post.url }}" title="Read more"><img src="{{ post.image }}" height="250"></a>
+                    <a href="{{ post.url }}" title="Read more"><img src="{{ post.image }}"></a>
                 </div>
             </article>
         </div>
