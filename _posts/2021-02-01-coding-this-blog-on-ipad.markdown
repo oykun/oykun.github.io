@@ -3,7 +3,7 @@ layout: post
 title:  "Coding this blog on iPad"
 date:   2021-02-01 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image: /assets/article-codeonipad.svg
+image: /assets/article-codeonipad.png
 categories: 
 ---
 

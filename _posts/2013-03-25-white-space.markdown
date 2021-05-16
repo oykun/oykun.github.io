@@ -3,7 +3,7 @@ layout: post
 title:  "White Space"
 date:   2013-03-25 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image: /assets/article-whitespace.svg
+image: /assets/article-whitespace.png
 categories: 
 ---
 <p>Yesterday I tweeted few words about "white space", it got some attention and I received emails asking more about it, so I decided to write this short post as an answer.</p>

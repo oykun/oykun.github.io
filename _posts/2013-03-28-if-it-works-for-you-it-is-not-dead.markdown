@@ -3,7 +3,7 @@ layout: post
 title:  "If it works for you, it's not dead"
 date:   2021-01-28 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image: /assets/article-itworks.svg
+image: /assets/article-itworks.png
 categories: 
 ---
 

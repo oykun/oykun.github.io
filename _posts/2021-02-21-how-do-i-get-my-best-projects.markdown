@@ -3,7 +3,7 @@ layout: post
 title:  "How do I get my best projects?"
 date:   2021-02-21 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image: /assets/article-network.svg
+image: /assets/article-network.png
 categories: 
 ---
 <h2>It is not What you know but Who!</h2>

@@ -3,7 +3,7 @@ layout: post
 title:  "Heroes over Mentors"
 date:   2021-02-15 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image: /assets/article-heroes.svg
+image: /assets/article-heroes.png
 categories: 
 ---
 
