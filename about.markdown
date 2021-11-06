@@ -2,7 +2,7 @@
 layout: default
 title: Oykun Yilmaz, About
 permalink: /about/
-bgcolor: FFEFE5
+bgcolor: F5E7DE
 ---
 <div class="max-width">
 	<div class="flex flex-wrap justify-between">
