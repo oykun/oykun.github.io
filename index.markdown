@@ -4,6 +4,7 @@ title: "Oykun Yilmaz, Designer."
 tagline: "Personal website and blog on design, development and lessons learned in life."
 description: "Personal website and blog on design, development and lessons learned in life."  
 image: /assets/social_image.jpg
+bgcolor: ffffff
 ---
 <div>
 	{% for post in site.posts %}

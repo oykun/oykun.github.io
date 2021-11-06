@@ -2,6 +2,7 @@
 layout: default
 title: Oykun Yilmaz, Work
 permalink: /work/
+bgcolor: D1E9E3
 ---
 
 <div class="max-width mb5 font-serif">
