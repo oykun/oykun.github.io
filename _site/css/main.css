@@ -181,15 +181,15 @@ Utility
 /* ---------------------------
 Form
 ------------------------------ */
-footer input { padding: 20px; font-size: 1rem; margin: 0; border: 1px solid #ABABAB; display: block; border-radius: 4px; }
+.form-subscribe input { padding: 20px; font-size: 1rem; margin: 0; border: 1px solid #ABABAB; display: block; border-radius: 4px; background: none; }
 
-footer .submit { border: 0; background-color: #1A1A1A; color: #FFFFFF; }
+.form-subscribe .submit { border: 0; background-color: #1A1A1A; color: #FFFFFF; }
 
-footer .submit:hover { background-color: #3c434c; }
+.form-subscribe .submit:hover { background-color: #3c434c; }
 
-.btn-outlined { color: #3c434c; background-color: #FFFFFF; border: 1px solid #828282; padding: 6px 16px; border-radius: 4px; font-size: 0.9rem; }
+.btn-outlined { color: #3c434c; border: 1px solid #828282; padding: 6px 16px; border-radius: 4px; font-size: 0.9rem; }
 
-.btn-outlined:hover { background-color: #E9E9E9; border-color: #E9E9E9; }
+.btn-outlined:hover { border-color: #3c434c; }
 
 /* ---------------------------
 Blog

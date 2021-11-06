@@ -421,7 +421,7 @@ Utility
 /* ---------------------------
 Form
 ------------------------------ */
-footer {
+.form-subscribe {
 
   input {
     padding: 20px;
@@ -430,6 +430,7 @@ footer {
     border: 1px solid $grey2;
     display: block;
     border-radius: $border-radius;
+    background: none;
   }
 
   .submit {
@@ -445,15 +446,13 @@ footer {
 
 .btn-outlined {
   color: $dark;
-  background-color: $white;
   border: 1px solid $grey;
   padding: 6px 16px;
   border-radius: $border-radius;
   font-size: 0.9rem;
 
   &:hover {
-    background-color: $light;
-    border-color: $light;
+    border-color: $dark;
   }
 }
 
