@@ -18,7 +18,7 @@ footer nav { margin: 2rem 0; }
 
 nav { margin: 1rem 0; }
 
-nav a { margin-right: 10px; text-decoration: none; }
+nav a { margin-right: 20px; text-decoration: none; }
 
 nav a:hover { color: #1A1A1A; }
 
@@ -70,6 +70,8 @@ blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3r
 .clean-links a { text-decoration: none; }
 
 .text-grey, .text-grey a { color: #828282; }
+
+.md-16 { font-size: 16px !important; }
 
 /* ---------------------------
 Utility
