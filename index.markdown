@@ -13,7 +13,7 @@ bgcolor: ffffff
                 <div class="w-70-l">
                     <h1 class="slim"><a href="{{ post.url }}" title="Read more"> {{ post.title }} </a></h1>
                 </div>
-                <div class="w-20-l tr">
+                <div class="w-20-l tr-l">
                     <time datetime="{{ post.date | date: '%B %-d, %Y' }}" class="text-grey text-small">{{ post.date | date: "%b %-d, %Y" }}</time>
                     <!-- <a href="{{ post.url }}" title="Read more"><img src="{{ post.image }}"></a> -->
                 </div>
