@@ -1,22 +1,24 @@
 ---
 layout: default
 ---
-<div class="center mb5">
-    <img src="{{ page.image }}" height="400">
-</div>
-<div class="max-width">
-    <h1 class="post-title col-10">{{ page.title }}</h1>
-    <p class="text-grey">{{ page.date | date: "%B %-d, %Y" }}</p>
-</div>
 
-<div class="post-content max-width">
-    {{ content }}
+<div class="flex flex-wrap justify-between mt5">
+    <div class="w-40 mt4">
+        <h1 class="post-title col-10">{{ page.title }}</h1>
+        <p class="text-grey">{{ page.date | date: "%B %-d, %Y" }}</p>
+    </div>
+
+    <div class="w-50">
+        <div class="post-content">
+            <img src="{{ page.image }}">
+            {{ content }}
+        </div>
+    </div>  
 </div>
 
 <div class="max-width pt3">
     <p class="mb4 pt3">-</p>
     {% include share-buttons.html %}
 
-    <p>You can reach out to me on <a href="https://twitter.com/oykun">Twitter @oykun</a> or via <a href="mailto:hello@oykun.com">email</a> if you have any questions about this post.</p>
-
+    <p>Reach out to me on <a href="https://twitter.com/oykun">Twitter @oykun</a> or via <a href="mailto:hello@oykun.com">email</a> if you have any questions.</p>
 </div>

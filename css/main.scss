@@ -17,13 +17,13 @@ $link: $dark;
 
 // fonts
 $font-serif: Georgia, Times, serif;
-$font-sans-serif: Arial, Helvetica, sans-serif;
+$font-sans-serif: Helvetica, sans-serif;
 $font-weight-thin: 100;
 $font-weight-light: 300;
 $font-weight-regular: 400;
 $font-weight-heavy: 700;
-$font-height: 1.7;
-$font-size: 18px;
+$font-height: 1.5;
+$font-size: 1.6rem;
 $font-size-large: 24px;
 $font-size-extralarge: 2.8rem;
 
@@ -33,7 +33,7 @@ $gutter: 4%;
 $breakpoint-small: 33.75em; // 540px
 $breakpoint-med: 45em; // 720px
 $breakpoint-large: 60em; // 960px
-$max-width: 800px;
+$max-width: 99%;
 
 // utilities
 $border-radius: 4px;
@@ -59,7 +59,7 @@ body {
 }
 
 header, footer {
-  padding: 4rem 0;
+  padding: 1rem 0;
 }
 
 footer {
@@ -81,10 +81,7 @@ nav {
   a {
     margin-right: 20px;
     text-decoration: none;
-
-    &:hover {
-      color: $black;
-    }
+    color: $black;
   }
 }
 
@@ -469,10 +466,10 @@ h1.post-title {
 }
 .separator {
   border-top: 1px solid $light;
-  padding-top: 6rem;
+  padding-top: 1rem;
 }
 article {
-  margin-bottom: 6rem;
+  margin-bottom: 1rem;
 
   h1 {
     margin: 0;
@@ -495,9 +492,18 @@ article {
     height: 250px;
   }
 
+  &:hover {
+    a {
+      color: $grey2;
+    }
+  }
+
 }
 
 .post-content {
+  
+  font-size: 1.2rem;
+
   h2 {
     font-family: $font-serif;
     font-weight: $font-weight-light;
