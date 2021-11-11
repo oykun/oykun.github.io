@@ -66,8 +66,10 @@ footer {
   margin-top: 2rem;
   color: $grey;
 
+  font-family: $font-sans-serif;
+  font-weight: $font-weight-light;
   a {
-    margin-right: 10px;
+    text-decoration: none;
   }
 
   nav {
@@ -77,6 +79,8 @@ footer {
 
 nav {
   margin: 1rem 0;
+  font-family: $font-sans-serif;
+  font-weight: $font-weight-light;
 
   a {
     margin-right: 20px;
@@ -458,7 +462,7 @@ Form
 Blog
 ------------------------------ */
 h1.post-title {
-  font-weight: $font-weight-thin;
+  font-weight: $font-weight-light;
   font-size: $font-size-extralarge;
   line-height: 3.5rem;
   padding-top: 0;
@@ -474,6 +478,7 @@ article {
   h1 {
     margin: 0;
     padding: 0;
+    font-size: $font-size;
   }
 
   a {
