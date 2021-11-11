@@ -16,6 +16,7 @@ categories:
 <h2>Invest in long term</h2>
 <p>I'm not a type of person to follow stock market daily and try to time the market. I just want to put some money in investment and forget about it while it is growing itself on a side. For this scenario, <a href="https://www.investopedia.com/terms/i/indexfund.asp" target="_blank">Index Funds</a> have been a life saver.</p>
 <p>80% of my investment goes to long term Index Funds. I use <a href="https://www.vanguardinvestor.co.uk/" target="_blank">Vanguard</a> ISA account for Index Funds, it is trust worthy and has low fees. I did set up an £X of monthly direct debit payment from my bank to Vanguard and Vanguard to purchase Y% of each index fund monthly. It is all automated.</p>
+<p>So far, I have made %40+ return in Index funds.</p>
 
 <h2>Diversify</h2>
 <p>When it comes to where to invest, the diversification becomes key. Yes I have my favourite Funds, however I try to keep a good balance between logic and emotion. I invest in ~15 Funds with different weights at the moment. Big majority is for S&P 500 (duh!), I also have some FTSE 100, Japan Stock Index, Target Retirement, Global Small Cap Index Fund, ...</p>
@@ -24,6 +25,7 @@ categories:
 <h2>Individual Stocks</h2>
 <p>OK, lets be honest, Index funds are boring :D  in this case, boring is good though!</p>
 <p>So for the remaining 20% of my money, I invest in Individual Stocks and Crypto. Currently I'm using <a href="https://etoro.tw/3n68GH3" target="_blank">eToro</a> for both, there are many other low fee alternatives for Stock market. I purchase stocks from the companies I know and believe in such as Apple, Amazon, Tesla, etc. </p>
+<p>Stock market with Crypto is very volatile, looking at today, I have made ~%70 return</p>
 
 <h2>Timing the Market</h2>
 <p>You may heard this phrase, people keep waiting for market price to go down to buy. In an ideal world, it makes sense, however we are living in a real and unpredictable world. Regardless market going up or down, you loose opportunity by waiting. I invest regularly without timing. If you look at it in the long term, your money grows despite all the volatilities. I don't sell when market goes down and people panic sells, I see these times as great opportunities to buy even more.</p>
