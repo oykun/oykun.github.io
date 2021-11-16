@@ -6,6 +6,8 @@ permalink: /:year/:title:output_ext
 image: /assets/article-feelgood.png
 categories: 
 ---
+
+<img src="{{ page.image }}" class="max-width">
 <h2>An overlooked factor in keeping a good mood while working from home</h2>
 
 <p>Most of us, designers, are working from home now and we are lucky to be able to do that. However it certainly comes with its challenges with staying creative and motivated. Especially if you are not used to work from home.</p>

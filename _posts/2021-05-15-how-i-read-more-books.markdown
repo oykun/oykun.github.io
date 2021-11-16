@@ -6,6 +6,8 @@ permalink: /:year/:title:output_ext
 image: /assets/article-howireadmore.png
 categories: 
 ---
+
+<img src="{{ page.image }}" class="max-width">
 <h2>Replacing smartphone with a book.</h2>
 
 <p>We all want to read more and we always struggle finding time for it. I used to be in the same situation and feel guilty of not reading enough. After all, how could I even find time with 2 kids, day time job, multiple side projects, list goes on...</p>

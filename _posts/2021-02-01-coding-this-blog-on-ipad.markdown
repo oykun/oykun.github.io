@@ -7,6 +7,7 @@ image: /assets/article-codeonipad.png
 categories: 
 ---
 
+<img src="{{ page.image }}" class="max-width">
 <div class="max-width">
 	<p>I have been coding this simple Jekyll blog on my iPad as well as my MBP and I wanted to share my flow. This is not going to be a detailed post explaining every steps in details, but an overall flow. I can get in more details in a separate post maybe.</p>
 	<p>I build this website in a very simple, lightweight way by using <a href="https://jekyllrb.com" title="Jekyll">Jekyll</a> and hosting on <a href="https://pages.github.com" title="Github Pages">Github Pages</a> for free.</p>

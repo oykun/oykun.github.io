@@ -7,6 +7,7 @@ image: /assets/article-newbeginnings.png
 categories: 
 ---
 
+<img src="{{ page.image }}" class="max-width">
 
 <div class="col-12">
 <p>It's hard to believe it has been almost 8 years since my last blog post.</p>

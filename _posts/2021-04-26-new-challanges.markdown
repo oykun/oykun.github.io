@@ -6,6 +6,8 @@ permalink: /:year/:title:output_ext
 image: /assets/article-challenge.png
 categories: 
 ---
+
+<img src="{{ page.image }}" class="max-width">
 <h2>Don't fear to take new challenges bigger than you've ever dealt with. Remember, we don't grow when things are easy, we grow when we face challenges.</h2>
 <p>This is more of a personal update article. I wanted to document my thought process behind this radical decision I have taken in my career. A direction I thought I'd never take. I guess "Never Say Never" proves itself true again.</p>
 

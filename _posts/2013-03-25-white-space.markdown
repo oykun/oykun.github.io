@@ -6,6 +6,7 @@ permalink: /:year/:title:output_ext
 image: /assets/article-whitespace.png
 categories: 
 ---
+<img src="{{ page.image }}" class="max-width">
 <p>Yesterday I tweeted few words about "white space", it got some attention and I received emails asking more about it, so I decided to write this short post as an answer.</p>
 
 <blockquote><p>White spaces in design are not wasted spaces. They clean the environment around the important element and gives better, easier, direct focus</p>

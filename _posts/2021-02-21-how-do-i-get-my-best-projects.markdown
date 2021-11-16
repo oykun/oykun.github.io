@@ -6,6 +6,8 @@ permalink: /:year/:title:output_ext
 image: /assets/article-network.png
 categories: 
 ---
+
+<img src="{{ page.image }}" class="max-width">
 <h2>It is not What you know but Who!</h2>
 <p>I should probably cover this subject in a series of articles. For today I wanted to write about the important of connections.</p> 
 <p>Yesterday while I was playing Final Fantasy 7 Remake, I heard Tifa saying Cloud about the importance of making connections to get more jobs and she was encouraging Cloud to meet more people in Midgar city.</p>

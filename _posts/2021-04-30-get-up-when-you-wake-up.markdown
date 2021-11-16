@@ -6,6 +6,8 @@ permalink: /:year/:title:output_ext
 image: /assets/article-getup.png
 categories: 
 ---
+
+<img src="{{ page.image }}" class="max-width">
 <h2>We all have 24 hours in a day. Entrepreneur to 5 products and 4 kids with well balanced life or a single full time employee who struggles to find time to do a simple reading/writing.</h2>
 
 <p>As I mentioned in my previous post about <a href="/2021/new-challanges.html" title="New Challenges">New Challenges</a>, I have started a full time job after many years of freelancing. One of the first challenges I've been facing is better time and energy management.</p>

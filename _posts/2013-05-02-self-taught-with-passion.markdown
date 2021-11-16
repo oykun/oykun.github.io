@@ -7,6 +7,7 @@ image: /assets/article-passion.png
 categories: 
 ---
 
+<img src="{{ page.image }}" class="max-width">
 <div class="col-12">
 <p>I often receive emails asking; How I became self-taught designer? If I can recommend any book, course? If I have any advise? Rather than keep replying those emails individually, I wanted to write this short post. I will be talking about design, but the things you will be reading can be applied to pretty much everything.</p>
 
