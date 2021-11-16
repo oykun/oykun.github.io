@@ -36,9 +36,14 @@ plugins:
   - jekyll-sitemap
 
 
-
 sass:
     sass_dir: _sass
+
+
+// Twitter SEO Tags Gem setting
+twitter:
+  username: oykun
+  card: summary
 
 # Exclude from processing.
 # The following items will not be processed, by default.
