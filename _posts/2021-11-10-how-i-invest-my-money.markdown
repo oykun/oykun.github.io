@@ -3,7 +3,7 @@ layout: post
 title:  "How I invest my money"
 date:   2021-11-10 00:01:01 +0000
 permalink: /:year/:title:output_ext
-image: 
+image: /assets/oykun-twitter-small.jpg
 categories: 
 ---
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m 38 years old &amp; I found out about investing my money at the age of 36! My parents or anyone in my family have never invested. What a loss!<br><br>Seeing now how my money grows. 💰<br>I&#39;m a father of 2 kids (5 &amp; 8yo). One of first thing I&#39;ll teach them is saving/investing/compounding...</p>&mdash; oykun.com (@oykun) <a href="https://twitter.com/oykun/status/1458009050516492290?ref_src=twsrc%5Etfw">November 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
