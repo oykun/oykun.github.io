@@ -40,7 +40,7 @@ sass:
     sass_dir: _sass
 
 
-// Twitter SEO Tags Gem setting
+# Twitter SEO Tags Gem setting
 twitter:
   username: oykun
   card: summary
