@@ -187,7 +187,7 @@ Form
 
 .form-subscribe .submit:hover { background-color: #3c434c; }
 
-.btn-dark { background-color: #1A1A1A; color: #FFFFFF; padding: 30px; text-decoration: none; }
+.btn-dark { background-color: #1A1A1A; color: #FFFFFF; padding: 30px; text-decoration: none; font-size: 1rem; }
 
 .btn-dark:hover { color: #FFFFFF; background-color: #3c434c; }
 

@@ -10,7 +10,7 @@ image: /assets/NFTubism01.gif
     <div class="w-40-l">
         <h1 class="slim title-large col-10">NFTubism</h1>
     </div>
-    <div class="w-50-l mt6">
+    <div class="w-50-l mt6-l">
         <div class="post-content">
 			<p class="text-large mb0 pb0">Limited fine art style NFT collectible hand-drawn by <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">@Oykun</a>.</p>
 			<p class="text-large mb0 pb0">Limited collection of 30 pieces released in small batches of 3 every Friday.</p>
@@ -56,7 +56,7 @@ image: /assets/NFTubism01.gif
     <div class="w-40-l">
         <h1 class="slim">Where does the inspiration come from?</h1>
     </div>
-    <div class="w-50-l pt6">
+    <div class="w-50-l pt6-l">
         <div class="post-content">
 			<p>The name and style comes from combination of multiple art movements such as Cubism, Surrealism, Minimalism...</p>
         </div>
@@ -80,7 +80,7 @@ image: /assets/NFTubism01.gif
     <div class="w-40-l mt4">
         <h1 class="col-10"></h1>
     </div>
-    <div class="w-50-l pt3">
+    <div class="w-50-l pt3-l">
         <div class="post-content">
 			<h4>Cubism</h4>
 			<p>Cubism was a revolutionary new approach to representing reality invented in around 1907–08 by artists Pablo Picasso and Georges Braque. They brought different views of subjects (usually objects or figures) together in the same picture, resulting in paintings that appear fragmented and abstracted</p>
@@ -102,16 +102,16 @@ image: /assets/NFTubism01.gif
     <div class="w-40-l">
         <h1 class="slim col-10">Who is behind NFTubism?</h1>
     </div>
-    <div class="w-50-l pt5">
+    <div class="w-50-l pt5-l">
         <div class="post-content">
 			<p class="text-large mb0 pb0">Oykun Yilmaz, an ex-developer turned designer who is leading design for a few business lines in a Tier 1 Invesment Bank at day time, and reads, experiments with art and new technologies at the night time which makes NFT a perfect combination.</p>
         </div>
     </div>  
 </div>
-<div class="flex flex-wrap justify-between mt5">
-	<img src="/assets/space1.jpeg" width="25%">
-	<img src="/assets/tate.jpeg" width="25%">
-	<img src="/assets/mag1.jpeg" width="25%">
+<div class="flex flex-wrap justify-between pt5-l">
+	<img src="/assets/space1.jpeg" class="w-30-l">
+	<img src="/assets/tate.jpeg" class="w-30-l">
+	<img src="/assets/mag1.jpeg" class="w-30-l">
 </div>
 
 
@@ -137,7 +137,7 @@ image: /assets/NFTubism01.gif
     <div class="w-40-l">
         <h1 class="slim col-10">What do I get?</h1>
     </div>
-    <div class="w-50-l mt4">
+    <div class="w-50-l mt4-l">
         <div class="post-content">
 			<p class="text-large mb0 pb0">You get different image assets of your NFTubism, including an animated GIF, MP4, PNG file.</p>
         </div>
@@ -153,7 +153,7 @@ image: /assets/NFTubism01.gif
     <div class="w-40-l">
         <h1 class="slim col-10">How do I buy NFT?</h1>
     </div>
-    <div class="w-50-l mt5">
+    <div class="w-50-l mt5-l">
         <div class="post-content">
 			<p class="text-large mb0 pb0">Here are some steps on what you need to do to get your NFTubism.</p>
 			<ol>
@@ -178,7 +178,7 @@ image: /assets/NFTubism01.gif
     <div class="w-40-l">
         <h1 class="slim col-10">Making some good out of this 🖤</h1>
     </div>
-    <div class="w-50-l mt5">
+    <div class="w-50-l mt5-l">
         <div class="post-content">
 			<p class="text-large mb0 pb0">By purchasing these NTFs, you will be contributing to the donation for <a href="https://www.savethechildren.org.uk/" target="_blank">Save the Children</a> for food, education, healthcare support and <a href="https://www.careinternational.org.uk/emergencies/climate-crisis" target="_blank">Care</a> for Climate Crisis support.</p>
 			<p class="text-large mb0 pb0">I will <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">tweet</a> and update this page with the proof of donations you have taken part of. It is optional to include your name in these updates.</p>
@@ -195,7 +195,7 @@ image: /assets/NFTubism01.gif
 
 
 <div class="mt7 mb7 tc">
-	<h1 class="slim page-title w-50 center">Thank you for your support and taking your place in the limited NFTubism collectors.</h1>
+	<h1 class="slim page-title w-50-l center">Thank you for your support and taking your place in the limited NFTubism collectors.</h1>
     <p class="pt6"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
 </div>
 
