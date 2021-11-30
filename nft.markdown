@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NFTubism
+description: Limited fine art NFT collectible by Oykun
 permalink: /nftubism/
 bgcolor: BEBEBE
 image: /assets/NFTubism01.gif
