@@ -14,7 +14,7 @@ image: /assets/NFTubism01.gif
         <div class="post-content">
 			<p class="text-large mb0 pb0">Limited fine art style NFT collectible hand-drawn by <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">@Oykun</a>.</p>
 			<p class="text-large mb0 pb0">Limited collection of 30 pieces released in small batches of 3 every Friday.</p>
-			<p class="pt4"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
+			<p class="pt4"><a href="https://foundation.app/@oykun" target="_blank" class="btn-dark">Collect your NTFubism on Foundation</a></p>
         </div>
     </div>  
 </div>
@@ -28,16 +28,16 @@ image: /assets/NFTubism01.gif
 	<p class="font-light text-small text-grey">Released on December 3, Friday</p>
 	<div class="flex flex-wrap justify-between text-small text-slim">
 		<div class="">
-			<img src="/assets/NFTubism01.gif" width="300">
-			<p>NFTubism #01</p>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism01.gif" width="300"></a>
+			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #01</a></p>
 		</div>
 		<div class="">
-			<img src="/assets/NFTubism02.gif" width="300">
-			<p>NFTubism #02</p>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism02.gif" width="300"></a>
+			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #02</a></p>
 		</div>
 		<div class="">
-			<img src="/assets/NFTubism03.gif" width="300"> 
-			<p>NFTubism #03</p>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism03.gif" width="300"></a>
+			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #03</a></p>
 		</div>
 	</div>
 </div>
@@ -196,7 +196,7 @@ image: /assets/NFTubism01.gif
 
 <div class="mt7 mb7 tc">
 	<h1 class="slim page-title w-50-l center">Thank you for your support and taking your place in the limited NFTubism collectors.</h1>
-    <p class="pt6"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
+    <p class="pt6"><a href="https://foundation.app/@oykun" target="_blank" class="btn-dark">Collect your NTFubism on Opensea</a></p>
 </div>
 
 
