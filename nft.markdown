@@ -195,7 +195,7 @@ image: /assets/NFTubism01.gif
 
 
 <div class="mt7 mb7 tc">
-	<h1 class="slim page-title w-50 center">Thank you for being part of the limited NFTubism collectors and your support : )</h1>
+	<h1 class="slim page-title w-50 center">Thank you for your support and taking your place in the limited NFTubism collectors.</h1>
     <p class="pt6"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
 </div>
 
