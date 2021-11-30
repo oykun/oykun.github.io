@@ -36,7 +36,7 @@ image: /assets/NFTubism01.gif
 			<p>NFTubism #02</p>
 		</div>
 		<div class="">
-			<img src="/assets/NFTubism03.png" width="300"> 
+			<img src="/assets/NFTubism03.gif" width="300"> 
 			<p>NFTubism #03</p>
 		</div>
 	</div>

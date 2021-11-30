@@ -1,10 +1,10 @@
-I"0<div class="flex flex-wrap justify-between">
+I"9<div class="flex flex-wrap justify-between">
     <div class="w-40-l">
         <h1 class="slim title-large col-10">NFTubism</h1>
     </div>
     <div class="w-50-l mt6">
         <div class="post-content">
-			<p class="text-large mb0 pb0">Limited fine art NFT collectible hand-drawn by <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">@Oykun</a>.</p>
+			<p class="text-large mb0 pb0">Limited fine art style NFT collectible hand-drawn by <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">@Oykun</a>.</p>
 			<p class="text-large mb0 pb0">Limited collection of 30 pieces released in small batches of 3 every Friday.</p>
 			<p class="pt4"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
         </div>
@@ -24,7 +24,7 @@
 			<p>NFTubism #02</p>
 		</div>
 		<div class="">
-			<img src="/assets/NFTubism03.png" width="300" /> 
+			<img src="/assets/NFTubism03.gif" width="300" /> 
 			<p>NFTubism #03</p>
 		</div>
 	</div>
@@ -55,7 +55,7 @@
 		<p class="text-small">Mayo, <br />Portrait Surrealiste 1937</p>
 	</span>
 	<span>
-		<img src="/assets/cossacks.jpeg" />
+		<img src="/assets/cossacks.jpg" />
 		<p class="text-small">Wassily Kandinsky, <br />Cossacks 1910–1</p>
 	</span>
 </div>
@@ -149,7 +149,7 @@
 </div>
 
 <div class="mt7 mb7 tc">
-	<h1 class="slim page-title w-50 center">Thank you for being part of the limited NFTubism collectors and your support : )</h1>
+	<h1 class="slim page-title w-50 center">Thank you for your support and taking your place in the limited NFTubism collectors.</h1>
     <p class="pt6"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
 </div>
 
