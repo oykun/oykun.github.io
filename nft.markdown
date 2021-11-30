@@ -3,6 +3,7 @@ layout: default
 title: NFTubism
 permalink: /nftubism/
 bgcolor: BEBEBE
+image: /assets/NFTubism01.gif
 ---
 <div class="flex flex-wrap justify-between">
     <div class="w-40-l">
