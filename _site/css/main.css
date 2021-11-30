@@ -59,6 +59,8 @@ blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3r
 
 .font-serif { font-family: Georgia, Times, serif; }
 
+.title-large { font-size: 4rem; }
+
 .text-large { font-size: 1.2rem; }
 
 .text-small { font-size: 0.9rem; }
@@ -184,6 +186,10 @@ Form
 .form-subscribe .submit { border: 0; background-color: #1A1A1A; color: #FFFFFF; }
 
 .form-subscribe .submit:hover { background-color: #3c434c; }
+
+.btn-dark { background-color: #1A1A1A; color: #FFFFFF; padding: 30px; text-decoration: none; }
+
+.btn-dark:hover { color: #FFFFFF; background-color: #3c434c; }
 
 .btn-outlined { color: #3c434c; border: 1px solid #828282; padding: 6px 16px; border-radius: 4px; font-size: 0.9rem; }
 
