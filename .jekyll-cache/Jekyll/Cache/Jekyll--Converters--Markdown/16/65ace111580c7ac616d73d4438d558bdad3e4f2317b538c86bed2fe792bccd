@@ -1,12 +1,4 @@
----
-layout: default
-title: NFTubism
-description: Limited fine art NFT collectible by Oykun
-permalink: /nftubism/
-bgcolor: BEBEBE
-image: /assets/NFTubism01.gif
----
-<div class="flex flex-wrap justify-between">
+I"�<div class="flex flex-wrap justify-between">
     <div class="w-40-l">
         <h1 class="slim title-large col-10">NFTubism</h1>
     </div>
@@ -19,24 +11,20 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 
-
-
-
-
 <div class="pa5 mt6 mb4" style="background-color: #111015; color: #fff;">
 	<h3 class="font-light">Drop 1</h3>
 	<p class="font-light text-small text-grey">Released on December 3, Friday</p>
 	<div class="flex flex-wrap justify-between text-small text-slim">
 		<div class="">
-			<img src="/assets/NFTubism01.gif" width="300">
+			<img src="/assets/NFTubism01.gif" width="300" />
 			<p>NFTubism #01</p>
 		</div>
 		<div class="">
-			<img src="/assets/NFTubism02.gif" width="300">
+			<img src="/assets/NFTubism02.gif" width="300" />
 			<p>NFTubism #02</p>
 		</div>
 		<div class="">
-			<img src="/assets/NFTubism03.png" width="300"> 
+			<img src="/assets/NFTubism03.png" width="300" /> 
 			<p>NFTubism #03</p>
 		</div>
 	</div>
@@ -46,11 +34,6 @@ image: /assets/NFTubism01.gif
 	<h3 class="font-light">Drop 2</h3>
 	<p class="font-light text-small text-grey">Coming on December 10, Friday</p>
 </div>
-
-
-
-
-
 
 <div class="flex flex-wrap justify-between pt5">
     <div class="w-40-l">
@@ -64,15 +47,15 @@ image: /assets/NFTubism01.gif
 </div>
 <div class="flex flex-wrap justify-between pa3">
 	<span>
-		<img src="/assets/picasso.jpg">
+		<img src="/assets/picasso.jpg" />
 		<p class="text-small">Pablo Picasso, <br />Weeping Woman 1937</p>
 	</span>
 	<span>
-		<img src="/assets/mayo.jpg">
+		<img src="/assets/mayo.jpg" />
 		<p class="text-small">Mayo, <br />Portrait Surrealiste 1937</p>
 	</span>
 	<span>
-		<img src="/assets/cossacks.jpg">
+		<img src="/assets/cossacks.jpg" />
 		<p class="text-small">Wassily Kandinsky, <br />Cossacks 1910–1</p>
 	</span>
 </div>
@@ -93,11 +76,6 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 
-
-
-
-
-
 <div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
         <h1 class="slim col-10">Who is behind NFTubism?</h1>
@@ -109,14 +87,10 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 <div class="flex flex-wrap justify-between mt5">
-	<img src="/assets/space1.jpeg" width="25%">
-	<img src="/assets/tate.jpeg" width="25%">
-	<img src="/assets/mag1.jpeg" width="25%">
+	<img src="/assets/space1.jpeg" width="25%" />
+	<img src="/assets/tate.jpeg" width="25%" />
+	<img src="/assets/mag1.jpeg" width="25%" />
 </div>
-
-
-
-
 
 <div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
@@ -129,10 +103,6 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 
-
-
-
-
 <div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
         <h1 class="slim col-10">What do I get?</h1>
@@ -143,11 +113,6 @@ image: /assets/NFTubism01.gif
         </div>
     </div>  
 </div>
-
-
-
-
-
 
 <div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
@@ -167,36 +132,31 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 
-
-
-
-
-
-
-
-<div class="flex flex-wrap justify-between pt6"> 
+<div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
-        <h1 class="slim col-10">Making some good out of this 🖤</h1>
+        <h1 class="slim col-10">Making some good out of this</h1>
     </div>
     <div class="w-50-l mt5">
         <div class="post-content">
-			<p class="text-large mb0 pb0">By purchasing these NTFs, you will be contributing to the donation for <a href="https://www.savethechildren.org.uk/" target="_blank">Save the Children</a> for food, education, healthcare support and <a href="https://www.careinternational.org.uk/emergencies/climate-crisis" target="_blank">Care</a> for Climate Crisis support.</p>
-			<p class="text-large mb0 pb0">I will <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">tweet</a> and update this page with the proof of donations you have taken part of. It is optional to include your name in these updates.</p>
+			<p class="text-large mb0 pb0">Here are some steps on what you need to do to get your NFTubism.</p>
+			<ol>
+				<li>Register and install <a href="https://metamask.io/" target="_blank">metamask.io</a> extension for the Chrome browser to create your wallet</li>
+				<li>Purchase Ethereum and transfer to your Metamask Wallet using apps like Coinbase.</li>
+				<li>Go to <a href="">NFTubism Opensea</a> account.</li> 
+				<li>Now you can purchase your NFTubism in the mint section. You will be prompted to sign your transaction. FYI, there will be a fee associated with every transaction related to gas prices.</li>
+				<li>Once you have made your purchase, your NFTubism NFTs will be viewable in your wallet and on your Opensea account.</li>
+			</ol>
         </div>
     </div>  
 </div>
 
 <div class="tc mt5">
-	<img src="/assets/donate.png">
+	<img src="/assets/donate.png" />
 </div>
-
-
-
-
 
 <div class="mt7 mb7 tc">
 	<h1 class="slim page-title w-50 center">Thank you for being part of the limited NFTubism collectors and your support : )</h1>
     <p class="pt6"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
 </div>
 
-
+:ET
