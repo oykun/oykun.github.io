@@ -159,9 +159,9 @@ image: /assets/NFTubism01.gif
 			<ol>
 				<li>Register and install <a href="https://metamask.io/" target="_blank">metamask.io</a> extension for the Chrome browser to create your wallet</li>
 				<li>Purchase Ethereum and transfer to your Metamask Wallet using apps like Coinbase.</li>
-				<li>Go to <a href="">NFTubism Opensea</a> account.</li> 
+				<li>Go to <a href="https://foundation.app/@oykun" target="_blank">NFTubism Foundation</a> account.</li> 
 				<li>Now you can purchase your NFTubism in the mint section. You will be prompted to sign your transaction. FYI, there will be a fee associated with every transaction related to gas prices.</li>
-				<li>Once you have made your purchase, your NFTubism NFTs will be viewable in your wallet and on your Opensea account.</li>
+				<li>Once you have made your purchase, your NFTubism NFTs will be viewable in your wallet and on your Foundation account.</li>
 			</ol>
         </div>
     </div>  
@@ -196,7 +196,7 @@ image: /assets/NFTubism01.gif
 
 <div class="mt7 mb7 tc">
 	<h1 class="slim page-title w-50-l center">Thank you for your support and taking your place in the limited NFTubism collectors.</h1>
-    <p class="pt6"><a href="https://foundation.app/@oykun" target="_blank" class="btn-dark">Collect your NTFubism on Opensea</a></p>
+    <p class="pt6"><a href="https://foundation.app/@oykun" target="_blank" class="btn-dark">Collect your NTFubism on Foundation</a></p>
 </div>
 
 
