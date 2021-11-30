@@ -12,7 +12,7 @@ image: /assets/NFTubism01.gif
     </div>
     <div class="w-50-l mt6">
         <div class="post-content">
-			<p class="text-large mb0 pb0">Limited fine art NFT collectible by <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">@Oykun</a>.</p>
+			<p class="text-large mb0 pb0">Limited fine art NFT collectible hand-drawn by <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">@Oykun</a>.</p>
 			<p class="text-large mb0 pb0">Limited collection of 30 pieces released in small batches of 3 every Friday.</p>
 			<p class="pt4"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
         </div>
