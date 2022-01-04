@@ -159,8 +159,8 @@ image: /assets/NFTubism01.gif
 			<ol>
 				<li>Register and install <a href="https://metamask.io/" target="_blank">metamask.io</a> extension for the Chrome browser to create your wallet</li>
 				<li>Purchase Ethereum and transfer to your Metamask Wallet using apps like Coinbase.</li>
-				<li>Go to <a href="https://foundation.app/@oykun" target="_blank">NFTubism Foundation</a> account.</li> 
-				<li>Now you can purchase your NFTubism in the mint section. You will be prompted to sign your transaction. FYI, there will be a fee associated with every transaction related to gas prices.</li>
+				<li>Go to <a href="https://foundation.app/@oykun" target="_blank">NFTubism Foundation</a> account on Foundation.app.</li> 
+				<li>Now you can purchase your NFTubism in the mint section. You will be prompted to sign your transaction. FYI, there will be a fee associated with every transaction related to <a href="https://www.investopedia.com/terms/g/gas-ethereum.asp#:~:text=Gas%20fees%20are%20payments%20made,spend%20on%20a%20particular%20transaction." target="_blank">gas prices</a>.</li>
 				<li>Once you have made your purchase, your NFTubism NFTs will be viewable in your wallet and on your Foundation account.</li>
 			</ol>
         </div>
@@ -173,7 +173,7 @@ image: /assets/NFTubism01.gif
 
 
 
-
+<!--
 <div class="flex flex-wrap justify-between pt6"> 
     <div class="w-40-l">
         <h1 class="slim col-10">Making some good out of this 🖤</h1>
@@ -189,6 +189,7 @@ image: /assets/NFTubism01.gif
 <div class="tc mt5">
 	<img src="/assets/donate.png">
 </div>
+-->
 
 
 

@@ -1,4 +1,4 @@
-I"I<div class="flex flex-wrap justify-between">
+I"<div class="flex flex-wrap justify-between">
     <div class="w-40-l">
         <h1 class="slim title-large col-10">NFTubism</h1>
     </div>
@@ -6,7 +6,7 @@
         <div class="post-content">
 			<p class="text-large mb0 pb0">Limited fine art style NFT collectible hand-drawn by <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">@Oykun</a>.</p>
 			<p class="text-large mb0 pb0">Limited collection of 30 pieces released in small batches of 3 every Friday.</p>
-			<p class="pt4"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
+			<p class="pt4"><a href="https://foundation.app/@oykun" target="_blank" class="btn-dark">Collect your NTFubism on Foundation</a></p>
         </div>
     </div>  
 </div>
@@ -16,16 +16,16 @@
 	<p class="font-light text-small text-grey">Released on December 3, Friday</p>
 	<div class="flex flex-wrap justify-between text-small text-slim">
 		<div class="">
-			<img src="/assets/NFTubism01.gif" width="300" />
-			<p>NFTubism #01</p>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism01.gif" width="300" /></a>
+			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #01</a></p>
 		</div>
 		<div class="">
-			<img src="/assets/NFTubism02.gif" width="300" />
-			<p>NFTubism #02</p>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism02.gif" width="300" /></a>
+			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #02</a></p>
 		</div>
 		<div class="">
-			<img src="/assets/NFTubism03.gif" width="300" /> 
-			<p>NFTubism #03</p>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism03.gif" width="300" /></a>
+			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #03</a></p>
 		</div>
 	</div>
 </div>
@@ -86,10 +86,10 @@
         </div>
     </div>  
 </div>
-<div class="flex flex-wrap justify-between mt5">
-	<img src="/assets/space1.jpeg" width="25%" />
-	<img src="/assets/tate.jpeg" width="25%" />
-	<img src="/assets/mag1.jpeg" width="25%" />
+<div class="flex flex-wrap justify-between pt5-l">
+	<img src="/assets/space1.jpeg" class="w-30-l" />
+	<img src="/assets/tate.jpeg" class="w-30-l" />
+	<img src="/assets/mag1.jpeg" class="w-30-l" />
 </div>
 
 <div class="flex flex-wrap justify-between pt6">
@@ -124,14 +124,15 @@
 			<ol>
 				<li>Register and install <a href="https://metamask.io/" target="_blank">metamask.io</a> extension for the Chrome browser to create your wallet</li>
 				<li>Purchase Ethereum and transfer to your Metamask Wallet using apps like Coinbase.</li>
-				<li>Go to <a href="">NFTubism Opensea</a> account.</li> 
-				<li>Now you can purchase your NFTubism in the mint section. You will be prompted to sign your transaction. FYI, there will be a fee associated with every transaction related to gas prices.</li>
-				<li>Once you have made your purchase, your NFTubism NFTs will be viewable in your wallet and on your Opensea account.</li>
+				<li>Go to <a href="https://foundation.app/@oykun" target="_blank">NFTubism Foundation</a> account on Foundation.app.</li> 
+				<li>Now you can purchase your NFTubism in the mint section. You will be prompted to sign your transaction. FYI, there will be a fee associated with every transaction related to <a href="https://www.investopedia.com/terms/g/gas-ethereum.asp#:~:text=Gas%20fees%20are%20payments%20made,spend%20on%20a%20particular%20transaction." target="_blank">gas prices</a>.</li>
+				<li>Once you have made your purchase, your NFTubism NFTs will be viewable in your wallet and on your Foundation account.</li>
 			</ol>
         </div>
     </div>  
 </div>
 
+<!--
 <div class="flex flex-wrap justify-between pt6"> 
     <div class="w-40-l">
         <h1 class="slim col-10">Making some good out of this 🖤</h1>
@@ -145,12 +146,13 @@
 </div>
 
 <div class="tc mt5">
-	<img src="/assets/donate.png" />
+	<img src="/assets/donate.png">
 </div>
+-->
 
 <div class="mt7 mb7 tc">
 	<h1 class="slim page-title w-50-l center">Thank you for your support and taking your place in the limited NFTubism collectors.</h1>
-    <p class="pt6"><a href="" class="btn-dark">Collect your NTFubism on Opensea</a></p>
+    <p class="pt6"><a href="https://foundation.app/@oykun" target="_blank" class="btn-dark">Collect your NTFubism on Foundation</a></p>
 </div>
 
 :ET
