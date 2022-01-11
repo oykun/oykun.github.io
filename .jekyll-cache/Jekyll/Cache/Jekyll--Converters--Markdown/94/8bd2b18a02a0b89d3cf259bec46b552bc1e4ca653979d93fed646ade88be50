@@ -1,5 +1,5 @@
-I"„(<div class="w-100 flex justify-between">
-    <div class="w-70">
+I"Ì(<div class="w-100-l flex justify-between flex-wrap">
+    <div class="w-70-l">
         
             <div class="separator">
                 <article class="max-width flex-l justify-between flex-wrap items-center">
@@ -158,7 +158,7 @@
             </div>
         
     </div>
-    <div class="w-20">
+    <div class="w-20-l">
         <div id="sidebar" class="text-smaller">
     
     <div class="w-80">
@@ -166,16 +166,13 @@
         <p>Sharing images for what I'm up to at my <a href="https://www.instagram.com/oykun/" target="_blank">@oykun Instagram</a> account.</p>   
     </div>  
 
-    <div class="">
-        <p>Join Â£1k+ subscribers who follow up with the lessons, experiments and updates I'm sharing from my ~20 years of experience.</p>
-        <div id="revue-embed">
-            <form action="https://www.getrevue.co/profile/oykun/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
-            <div class="revue-form-group">
-              <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email" />
-            </div>
-              <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit" />
-            </form>
-          </div>
+    <div class="w-80 pt5">
+        <a href="https://www.getrevue.co/profile/oykun/add_subscriber" target="_blank"><img src="/assets/oykun_newsletter.png" alt="@oykun" /></a>
+        <p class="mb1">Join Â£1k+ subscribers who follow up with the lessons, experiments and updates I'm sharing from my ~20 years of experience.</p>
+        <form action="https://www.getrevue.co/profile/oykun/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
+            <input class="w-100 pa1 mb1" placeholder="Your email address..." type="email" name="member[email]" id="member_email" />
+            <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit" class="w-100" />
+        </form>
     </div>
 </div>
     </div>
