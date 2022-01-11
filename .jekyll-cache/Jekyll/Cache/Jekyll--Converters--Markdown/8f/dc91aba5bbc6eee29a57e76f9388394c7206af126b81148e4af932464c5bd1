@@ -1,4 +1,4 @@
-I"Ö%<div class="w-100 flex justify-between">
+I"„(<div class="w-100 flex justify-between">
     <div class="w-70">
         
             <div class="separator">
@@ -159,13 +159,24 @@
         
     </div>
     <div class="w-20">
-        <div id="sidebar" class="">
+        <div id="sidebar" class="text-smaller">
     
-    <div class="w-80 text-smaller">
+    <div class="w-80">
         <a href="https://www.instagram.com/oykun/" target="_blank"><img src="/assets/instagram_oykun.jpeg" alt="@oykun" /></a>
-        Sharing images for what I'm up to at my <a href="https://www.instagram.com/oykun/" target="_blank">@oykun Instagram</a> account.    
+        <p>Sharing images for what I'm up to at my <a href="https://www.instagram.com/oykun/" target="_blank">@oykun Instagram</a> account.</p>   
     </div>  
 
+    <div class="">
+        <p>Join Â£1k+ subscribers who follow up with the lessons, experiments and updates I'm sharing from my ~20 years of experience.</p>
+        <div id="revue-embed">
+            <form action="https://www.getrevue.co/profile/oykun/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
+            <div class="revue-form-group">
+              <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email" />
+            </div>
+              <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit" />
+            </form>
+          </div>
+    </div>
 </div>
     </div>
 </div>
