@@ -1,56 +1,39 @@
----
-layout: default
-title: NFTubism
-description: Limited fine art style NFT collectible hand-drawn by @Oykun
-permalink: /nftubism/
-bgcolor: BEBEBE
-image: /assets/NFTubism01.gif
----
-<div class="flex flex-wrap justify-between">
+I"ÿ<div class="flex flex-wrap justify-between">
     <div class="w-40-l">
         <h1 class="slim title-large col-10">NFTubism</h1>
     </div>
     <div class="w-50-l mt6-l">
         <div class="post-content">
 			<p class="text-large mb0 pb0">Limited fine art style NFT collectible hand-drawn by <a href="https://twitter.com/oykun" title="twitter/@oykun" target="_blank">@Oykun</a>.</p>
-			<p class="text-large mb0 pb0">Limited collection releasing in small batches of 3 every Friday.</p>
+			<p class="text-large mb0 pb0">Limited collection of 30 pieces released in small batches of 3 every Friday.</p>
 			<p class="pt4"><a href="https://foundation.app/@oykun" target="_blank" class="btn-dark">Collect your NTFubism on Foundation</a></p>
         </div>
     </div>  
 </div>
 
-
-
-
-
 <div class="pa5 mt6 mb4" style="background-color: #fafafa;">
 	<h3 class="font-light">Drop 1</h3>
-	<p class="font-light text-small text-grey">Released on Jan 21, Friday</p>
+	<p class="font-light text-small text-grey">Released on Jan 13, Friday</p>
 	<div class="flex flex-wrap justify-between text-small text-slim">
 		<div class="">
-			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism01.gif" width="300"></a>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism01.gif" width="300" /></a>
 			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #01</a></p>
 		</div>
 		<div class="">
-			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism02.gif" width="300"></a>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism02.gif" width="300" /></a>
 			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #02</a></p>
 		</div>
 		<div class="">
-			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism03.gif" width="300"></a>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism03.gif" width="300" /></a>
 			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #03</a></p>
 		</div>
 	</div>
 </div>
 
-<div class="pa5 mt6 mb4" style="background-color: #fafafa;">
+<div class="pa5 mb4" style="background-color: #bababa;">
 	<h3 class="font-light">Drop 2</h3>
-	<p class="font-light text-small text-grey">Coming on Jan 28, Friday</p>
+	<p class="font-light text-small text-grey">Coming on December 10, Friday</p>
 </div>
-
-
-
-
-
 
 <div class="flex flex-wrap justify-between pt5">
     <div class="w-40-l">
@@ -64,15 +47,15 @@ image: /assets/NFTubism01.gif
 </div>
 <div class="flex flex-wrap justify-between pa3">
 	<span>
-		<img src="/assets/picasso.jpg">
+		<img src="/assets/picasso.jpg" />
 		<p class="text-small">Pablo Picasso, <br />Weeping Woman 1937</p>
 	</span>
 	<span>
-		<img src="/assets/mayo.jpg">
+		<img src="/assets/mayo.jpg" />
 		<p class="text-small">Mayo, <br />Portrait Surrealiste 1937</p>
 	</span>
 	<span>
-		<img src="/assets/cossacks.jpg">
+		<img src="/assets/cossacks.jpg" />
 		<p class="text-small">Wassily Kandinsky, <br />Cossacks 1910â€“1</p>
 	</span>
 </div>
@@ -93,11 +76,6 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 
-
-
-
-
-
 <div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
         <h1 class="slim col-10">Who is behind NFTubism?</h1>
@@ -109,14 +87,10 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 <div class="flex flex-wrap justify-between pt5-l">
-	<img src="/assets/space1.jpeg" class="w-30-l">
-	<img src="/assets/tate.jpeg" class="w-30-l">
-	<img src="/assets/mag1.jpeg" class="w-30-l">
+	<img src="/assets/space1.jpeg" class="w-30-l" />
+	<img src="/assets/tate.jpeg" class="w-30-l" />
+	<img src="/assets/mag1.jpeg" class="w-30-l" />
 </div>
-
-
-
-
 
 <div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
@@ -129,10 +103,6 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 
-
-
-
-
 <div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
         <h1 class="slim col-10">What do I get?</h1>
@@ -143,11 +113,6 @@ image: /assets/NFTubism01.gif
         </div>
     </div>  
 </div>
-
-
-
-
-
 
 <div class="flex flex-wrap justify-between pt6">
     <div class="w-40-l">
@@ -167,12 +132,6 @@ image: /assets/NFTubism01.gif
     </div>  
 </div>
 
-
-
-
-
-
-
 <!--
 <div class="flex flex-wrap justify-between pt6"> 
     <div class="w-40-l">
@@ -191,13 +150,9 @@ image: /assets/NFTubism01.gif
 </div>
 -->
 
-
-
-
-
 <div class="mt7 mb7 tc">
 	<h1 class="slim page-title w-50-l center">Thank you for your support and taking your place in the limited NFTubism collectors.</h1>
     <p class="pt6"><a href="https://foundation.app/@oykun" target="_blank" class="btn-dark">Collect your NTFubism on Foundation</a></p>
 </div>
 
-
+:ET

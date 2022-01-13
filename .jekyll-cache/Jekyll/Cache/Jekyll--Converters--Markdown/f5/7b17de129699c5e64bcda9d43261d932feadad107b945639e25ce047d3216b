@@ -1,4 +1,4 @@
-I"<div class="flex flex-wrap justify-between">
+I"<div class="flex flex-wrap justify-between">
     <div class="w-40-l">
         <h1 class="slim title-large col-10">NFTubism</h1>
     </div>
@@ -11,20 +11,20 @@
     </div>  
 </div>
 
-<div class="pa5 mt6 mb4" style="background-color: #111015; color: #fff;">
+<div class="pa5 mt6 mb4" style="background-color: #fff;">
 	<h3 class="font-light">Drop 1</h3>
 	<p class="font-light text-small text-grey">Released on December 3, Friday</p>
 	<div class="flex flex-wrap justify-between text-small text-slim">
 		<div class="">
-			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism01.gif" width="300" /></a>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism01.gif" width="300" /></a>
 			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #01</a></p>
 		</div>
 		<div class="">
-			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism02.gif" width="300" /></a>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism02.gif" width="300" /></a>
 			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #02</a></p>
 		</div>
 		<div class="">
-			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/NFTubism03.gif" width="300" /></a>
+			<a href="https://foundation.app/@oykun" target="_blank"><img src="/assets/nft/NFTubism03.gif" width="300" /></a>
 			<p><a href="https://foundation.app/@oykun" target="_blank">NFTubism #03</a></p>
 		</div>
 	</div>
