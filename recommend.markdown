@@ -7,7 +7,6 @@ bgcolor: ffffff
 <div class="max-width">
 	<h1 class="slim">Books and products I recommend</h1>   
     <p>List of books and products I personally read, use and recommend. FYI, some of these products include affiliate links.</p>
-    <h2 class="slim">Books</h2> 
     <div class="flex-l flex-wrap justify-between mt5 text-smaller">
         <div class="recommend-item">
             <a href="https://www.amazon.co.uk/gp/product/0140442103?ie=UTF8&psc=1&linkCode=li3&tag=minimalstuffm-21&linkId=c9a4d959e51b15f1098854bf69a36af7&language=en_GB&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0140442103&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=minimalstuffm-21&language=en_GB" ></a><img src="https://ir-uk.amazon-adsystem.com/e/ir?t=minimalstuffm-21&language=en_GB&l=li3&o=2&a=0140442103" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

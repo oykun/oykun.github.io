@@ -599,7 +599,7 @@ Page - Work
 Page - Recommendations
 ------------------------------ */
 .recommend-item {
-  width: 40%;
+  width: 30%;
   margin-bottom: 40px;
 
   h4 {
@@ -652,5 +652,9 @@ Mediaquery
   blockquote {
     padding-left: 20px;
     line-height: 44px;
+  }
+
+  .recommend-item {
+    width: 100%;
   }
 }

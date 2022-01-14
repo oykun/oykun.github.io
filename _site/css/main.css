@@ -246,7 +246,7 @@ Page - Work
 /* ---------------------------
 Page - Recommendations
 ------------------------------ */
-.recommend-item { width: 40%; margin-bottom: 40px; }
+.recommend-item { width: 30%; margin-bottom: 40px; }
 
 .recommend-item h4 { margin: .5rem 0 0; }
 
@@ -255,6 +255,6 @@ Page - Recommendations
 /* ---------------------------
 Mediaquery
 ------------------------------ */
-@media only screen and (min-device-width: 320px) and (max-device-width: 736px) { .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 100% !important; } .right { text-align: left; } body, html { font-size: 20px !important; padding: 0 20px !important; } header, footer { padding: 2rem 0; } header .col-4 { margin-left: 0 !important; } nav .btn-outlined { margin-top: 20px; } h1.post-title, article h1 { font-size: 44px; line-height: 60px; } blockquote { padding-left: 20px; line-height: 44px; } }
+@media only screen and (min-device-width: 320px) and (max-device-width: 736px) { .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 { width: 100% !important; } .right { text-align: left; } body, html { font-size: 20px !important; padding: 0 20px !important; } header, footer { padding: 2rem 0; } header .col-4 { margin-left: 0 !important; } nav .btn-outlined { margin-top: 20px; } h1.post-title, article h1 { font-size: 44px; line-height: 60px; } blockquote { padding-left: 20px; line-height: 44px; } .recommend-item { width: 100%; } }
 
 /*# sourceMappingURL=main.css.map */
