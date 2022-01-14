@@ -115,10 +115,6 @@ h1 {
   line-height: 3rem;
 }
 
-h1.slim {
-  font-weight: $font-weight-thin;
-}
-
 h2 {
   font-size: 2rem;
 }
@@ -159,6 +155,10 @@ blockquote {
   font-family: $font-sans-serif;
   text-align: left;
   font-weight: $font-weight-heavy;
+}
+
+.slim {
+  font-weight: $font-weight-thin;
 }
 
 .post-content {
@@ -591,6 +591,22 @@ Page - Work
 .page-work {
   h4 {
     margin: 0;
+  }
+}
+
+
+/* ---------------------------
+Page - Recommendations
+------------------------------ */
+.recommend-item {
+  width: 40%;
+  margin-bottom: 40px;
+
+  h4 {
+    margin: .5rem 0 0;
+  }
+  p {
+    margin-bottom: .5rem;
   }
 }
 

@@ -6,9 +6,7 @@ bgcolor: ffffff
 ---
 <div class="max-width">
 	<h1 class="slim">Digital products from me to you</h1> 
-    <p>Here are some of the digital products I have created for myself and decided to share with you all. Some are free, some are for a small price. More products are coming in following days and weeks. I hope you will find them useful.</p>
-    <p>You can also check out my Amazon Storefront (affiliate) where I mostly gather the <a href="https://www.amazon.co.uk/shop/oykun" target="_blank">books I recommend at amazon.co.uk/shop/oykun <span class="material-icons md-18">north_east</span></a></p>
-    <p>Thank you for your support!</p>
+    <p>Here are some of the digital products I have created for myself and decided to share with you all. Some are free, some are for a small price. More products are coming in following days and weeks. I hope you will find them useful and Thank you for your support!</p>
     <script src="https://gumroad.com/js/gumroad.js"></script>
     <div class="flex-l justify-around mt5">
         <div class="w-50-l pa4">
