@@ -25,7 +25,7 @@ Typography
 ------------------------------ */
 * { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-html, body { font-size: 1.4rem; font-family: Helvetica, sans-serif; color: #1A1A1A; line-height: 1.5; }
+html, body { font-size: 1.3rem; font-family: Helvetica, sans-serif; color: #1A1A1A; line-height: 1.4; }
 
 h1, h2, h3, h4, h5 { font-family: Helvetica, sans-serif; }
 
@@ -39,13 +39,13 @@ h4 { font-size: 1.125rem; }
 
 h5 { font-size: 1rem; }
 
-p { font-weight: 400; line-height: 1.5; margin-bottom: 2rem; }
+p { font-weight: 400; line-height: 1.4; margin-bottom: 2rem; }
 
 a { color: #3c434c; }
 
 a:hover { color: #3c434c; }
 
-blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3rem; margin-left: 0; padding-left: 3rem; font-size: 1.3rem; font-family: Helvetica, sans-serif; text-align: left; font-weight: 700; }
+blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3rem; margin-left: 0; padding-left: 3rem; font-family: Helvetica, sans-serif; text-align: left; font-weight: 700; }
 
 .slim { font-weight: 100; }
 
@@ -198,13 +198,13 @@ Form
 /* ---------------------------
 Blog
 ------------------------------ */
-h1.post-title { font-weight: 300; font-size: 2.8rem; line-height: 3.5rem; padding-top: 0; margin: 0; }
+h1.post-title { font-weight: 300; font-size: 2rem; line-height: 3.5rem; padding-top: 0; margin: 0; }
 
 .separator { border-top: 1px solid #E9E9E9; padding-top: 1rem; }
 
 article { margin-bottom: 1rem; }
 
-article h1 { margin: 0; padding: 0; font-size: 1.4rem; }
+article h1 { margin: 0; padding: 0; font-size: 1.3rem; }
 
 article a { width: 100%; display: block; color: #1A1A1A; text-decoration: none; }
 
@@ -214,7 +214,7 @@ article image { height: 250px; }
 
 article:hover a { color: #ABABAB; }
 
-.post-content { font-size: 1.2rem; }
+.post-content { font-size: 1rem; }
 
 .post-content h2 { font-family: Georgia, Times, serif; font-weight: 300; line-height: 3rem; }
 
@@ -230,7 +230,7 @@ article:hover a { color: #ABABAB; }
 
 #share-buttons a { margin-right: 10px; }
 
-.article-links { margin-top: 50px; font-size: 0.9rem; color: #828282; }
+.article-links { margin-top: 50px; font-size: 1rem; color: #828282; }
 
 .article-links::before { content: "---"; }
 

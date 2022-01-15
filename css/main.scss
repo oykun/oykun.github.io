@@ -22,10 +22,11 @@ $font-weight-thin: 100;
 $font-weight-light: 300;
 $font-weight-regular: 400;
 $font-weight-heavy: 700;
-$font-height: 1.5;
-$font-size: 1.4rem;
-$font-size-large: 24px;
-$font-size-extralarge: 2.8rem;
+$font-height: 1.4;
+$font-size: 1.3rem;
+$font-size-small: 1rem;
+$font-size-large: 1.8rem;
+$font-size-extralarge: 2rem;
 
 // grid
 $width: 96%;
@@ -151,7 +152,6 @@ blockquote {
   margin-bottom: 3rem;
   margin-left: 0;
   padding-left: 3rem;
-  font-size: 1.3rem;
   font-family: $font-sans-serif;
   text-align: left;
   font-weight: $font-weight-heavy;
@@ -523,7 +523,7 @@ article {
 
 .post-content {
   
-  font-size: 1.2rem;
+  font-size: $font-size-small;
 
   h2 {
     font-family: $font-serif;
@@ -565,7 +565,7 @@ article {
 
 .article-links {
   margin-top: 50px;
-  font-size: 0.9rem;
+  font-size: $font-size-small;
   color: $grey;
 
   &::before {
