@@ -22,8 +22,8 @@ $font-weight-thin: 100;
 $font-weight-light: 300;
 $font-weight-regular: 400;
 $font-weight-heavy: 700;
-$font-height: 1.4;
-$font-size: 1.3rem;
+$font-lineheight: 1.6;
+$font-size: 1.4rem;
 $font-size-small: 1rem;
 $font-size-large: 1.8rem;
 $font-size-extralarge: 2rem;
@@ -66,9 +66,9 @@ header, footer {
 footer {
   margin-top: 2rem;
   color: $grey;
-
   font-family: $font-sans-serif;
   font-weight: $font-weight-light;
+  
   a {
     text-decoration: none;
   }
@@ -103,7 +103,7 @@ html, body {
   font-size: $font-size;
   font-family: $font-sans-serif;
   color: $black;
-  line-height: $font-height;
+  line-height: $font-lineheight;
 }
 
 h1, h2, h3, h4, h5 {
@@ -134,8 +134,8 @@ h5 {
 
 p {
   font-weight: $font-weight-regular;
-  line-height: $font-height;
-  margin-bottom: 2rem;
+  line-height: $font-lineheight;
+  margin-bottom: $font-lineheight;
 }
 
 a {
@@ -412,7 +412,6 @@ Utility
   padding-bottom: 0 !important;
 }
 
-
 .w100 {
   width: 100%;
 }
@@ -451,9 +450,9 @@ Form
 .btn-dark {
   background-color: $black;
   color: $white;
-  padding: 30px;
+  padding: 0.4rem;
   text-decoration: none;
-  font-size: 1rem;
+  border: 0;
 
   &:hover {
     color: $white;
@@ -484,10 +483,12 @@ h1.post-title {
   padding-top: 0;
   margin: 0;
 }
+
 .separator {
   border-top: 1px solid $light;
   padding-top: 1rem;
 }
+
 article {
   margin-bottom: 1rem;
 

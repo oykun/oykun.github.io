@@ -7,7 +7,7 @@ bgcolor: F5E7DE
 <div class="max-width">
 	<div class="flex flex-wrap justify-between">
 	<div class="w-25">
-		<img src="/assets/oykun.jpg"> 
+		<img src="/assets/oykun.jpg" alt="Oykun" title="Oykun"> 
 	</div>
 	<div class="w-70-l font-serif">
 		<p class="mt0 pt0">I'm Öykün Yılmaz, an ex-developer turned designer, based in London UK, with curiosity and passion for simplicity in design. In my 20 years of experience, I've been fortunate enough to work with great teams on many successful projects that has been featured in iOS App Stores, TechCrunch, The Sunday Times, The Independent and many other tech blogs and printed press.</p>

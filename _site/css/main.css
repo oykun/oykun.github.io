@@ -25,7 +25,7 @@ Typography
 ------------------------------ */
 * { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-html, body { font-size: 1.3rem; font-family: Helvetica, sans-serif; color: #1A1A1A; line-height: 1.4; }
+html, body { font-size: 1.4rem; font-family: Helvetica, sans-serif; color: #1A1A1A; line-height: 1.6; }
 
 h1, h2, h3, h4, h5 { font-family: Helvetica, sans-serif; }
 
@@ -39,7 +39,7 @@ h4 { font-size: 1.125rem; }
 
 h5 { font-size: 1rem; }
 
-p { font-weight: 400; line-height: 1.4; margin-bottom: 2rem; }
+p { font-weight: 400; line-height: 1.6; margin-bottom: 1.6; }
 
 a { color: #3c434c; }
 
@@ -187,7 +187,7 @@ Form
 
 .form-subscribe .submit:hover { background-color: #3c434c; }
 
-.btn-dark { background-color: #1A1A1A; color: #FFFFFF; padding: 30px; text-decoration: none; font-size: 1rem; }
+.btn-dark { background-color: #1A1A1A; color: #FFFFFF; padding: 0.4rem; text-decoration: none; border: 0; }
 
 .btn-dark:hover { color: #FFFFFF; background-color: #3c434c; }
 
@@ -204,7 +204,7 @@ h1.post-title { font-weight: 300; font-size: 2rem; line-height: 3.5rem; padding-
 
 article { margin-bottom: 1rem; }
 
-article h1 { margin: 0; padding: 0; font-size: 1.3rem; }
+article h1 { margin: 0; padding: 0; font-size: 1.4rem; }
 
 article a { width: 100%; display: block; color: #1A1A1A; text-decoration: none; }
 
