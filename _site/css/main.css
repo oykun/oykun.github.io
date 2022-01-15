@@ -246,11 +246,9 @@ Page - Work
 /* ---------------------------
 Page - Recommendations
 ------------------------------ */
-.recommend-item { width: 30%; margin-bottom: 40px; }
+.recommend-item { margin-bottom: 4rem; }
 
 .recommend-item h4 { margin: .5rem 0 0; }
-
-.recommend-item p { margin-bottom: .5rem; }
 
 /* ---------------------------
 Mediaquery

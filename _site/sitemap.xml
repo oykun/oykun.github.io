@@ -56,13 +56,13 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/books/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/nftubism/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/recommend/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/store/</loc>
