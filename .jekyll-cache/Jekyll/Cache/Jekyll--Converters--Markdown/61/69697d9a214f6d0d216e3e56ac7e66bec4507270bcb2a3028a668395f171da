@@ -1,4 +1,4 @@
-I"c+<div class="w-100-l flex justify-between flex-wrap">
+I"$*<div class="w-100-l flex justify-between flex-wrap">
     <div class="w-70-l">
         
             <div class="separator">
@@ -160,24 +160,17 @@
     </div>
     <div class="w-20-l">
         <div id="sidebar" class="text-smaller">
-    <!--
-    <div class="w-80">
-        <a href="https://www.instagram.com/oykun/" target="_blank"><img src="/assets/instagram_oykun.jpeg" alt="@oykun"></a>
-        <p>Sharing visuals of what I'm up to at my <a href="https://www.instagram.com/oykun/" target="_blank">@oykun Instagram</a>.</p>   
-    </div>  
-    -->
     <div class="w-80">
         <a href="https://www.getrevue.co/profile/oykun/" title="Oykun" target="_blank"><img src="/assets/oykun.jpg" alt="Oykun" title="Oykun" /></a>
         <p><a href="/about" title="About Oykun">Oykun</a> is a designer who writes articles about his learnings through experiments in Art, Design, Technology, Finance and Business.</p>
-        <p>Join the £1k+ readers who gets these learnings and interesting links to their inboxes.</p>
+        <p>Join the £1k+ readers who get these learnings and interesting links to their inboxes.</p>
         <form action="https://www.getrevue.co/profile/oykun/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
             <input class="w-100 pa1 mb1" placeholder="Your email address..." type="email" name="member[email]" id="member_email" />
             <input type="submit" value="Send me valuable content" name="member[subscribe]" id="member_submit" class="w-100 btn-dark" />
         </form>
     </div>
-
     <div class="w-80 pt4">
-        <p class="center">•</p>
+        <p class="center">✎</p>
         <p>I'm an avid user of Twitter to stay updated with creatives and have valuable discussions. Feel free to join by following <a href="https://twitter.com/oykun" title="@oykun">@oykun</a></p>
         <p><a href="https://twitter.com/oykun?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @oykun</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
     </div>
