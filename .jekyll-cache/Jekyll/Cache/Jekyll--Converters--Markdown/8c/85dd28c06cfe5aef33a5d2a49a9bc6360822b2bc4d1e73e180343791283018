@@ -1,53 +1,4 @@
-<!-- 
-HAHA! Made you look! :D
--->
-<!doctype html>
-<html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/tachyons.css">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@100;300;400;500;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
-    <meta charset="utf-8">
-    <title>Oykun Yilmaz, Designer.</title>
-    <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Oykun Yilmaz, Designer. | Oykun Yilmaz</title>
-<meta name="generator" content="Jekyll v4.0.1" />
-<meta property="og:title" content="Oykun Yilmaz, Designer." />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Personal website and blog on design, development and lessons learned in life." />
-<meta property="og:description" content="Personal website and blog on design, development and lessons learned in life." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Oykun Yilmaz" />
-<meta property="og:image" content="http://localhost:4000/assets/social_image.jpg" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:image" content="http://localhost:4000/assets/social_image.jpg" />
-<meta property="twitter:title" content="Oykun Yilmaz, Designer." />
-<meta name="twitter:site" content="@oykun" />
-<script type="application/ld+json">
-{"url":"http://localhost:4000/","@type":"WebSite","description":"Personal website and blog on design, development and lessons learned in life.","image":"http://localhost:4000/assets/social_image.jpg","name":"Oykun Yilmaz","headline":"Oykun Yilmaz, Designer.","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-</head>
-<body style="background-color: #ffffff">
-
-<header class="mb3">
-	<nav class="flex-l justify-between">
-		<a href="http://localhost:4000" title="Oykun, Home">Oykun, Designer.</a>
-		<a href="http://localhost:4000" title="Oykun, Blog">Blog</a>
-	    <a href="/store" title="Oykun, Store">Store ➂</a>
-		<a href="/books" title="Oykun, Books">Books</a>
-		<a href="/about" title="Oykun, About">About</a> 
-		<a href="/work" title="Oykun, Work">Work</a>
-		<a href="/subscribe" title="Subscribe for lessons, experiments and updates...">Sign Up</a>
-	</nav>
-</header>
-
-
-<div class="w-100-l flex justify-between flex-wrap">
+I"M+<div class="w-100-l flex justify-between flex-wrap">
     <div class="w-70-l">
         
             <div class="separator">
@@ -226,38 +177,11 @@ HAHA! Made you look! :D
     </div>
 
     <div class="w-80 pt4">
-        <p class="center">✎</p>
+        •
         <p>I'm an avid user of Twitter to stay updated with creatives and have valuable discussions. Feel free to join by following <a href="https://twitter.com/oykun" title="@oykun">@oykun</a></p>
         <p><a href="https://twitter.com/oykun?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @oykun</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
     </div>
 </div>
     </div>
 </div>
-
-
-<footer class="max-width pt5">
-	<div class="flex flex-wrap items-center justify-between">
-		<a href="https://twitter.com/oykun" title="@oykun" target="_blank">Twitter <span class="material-icons md-18">north_east</span></a>
-		<a href="https://www.instagram.com/oykun/" title="@oykun" target="_blank">Instagram <span class="material-icons md-18">north_east</span></a>
-		<a href="https://www.dribbble.com/oykun/" title="@oykun" target="_blank">Dribbble <span class="material-icons md-18">north_east</span></a>
-		<a href="https://kutu.it/users/oykun" title="@oykun" target="_blank">Kutu.it <span class="material-icons md-18">north_east</span></a>
-		<a href="mailto:hello@oykun.com" title="hello@oykun.com">Email</a>
-		<a href="https://oykun.com/feed.xml">RSS</a>
-		© 2022
-	</div>
-</footer>
-
-<script>
-	(function (i, s, o, g, r, a, m) {
-		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-			(i[r].q = i[r].q || []).push(arguments)
-		}, i[r].l = 1 * new Date(); a = s.createElement(o),
-			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-	})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-	ga('create', 'UA-613438-6', 'auto');
-	ga('send', 'pageview');
-</script>
-
-</body>
-</html>
+:ET
