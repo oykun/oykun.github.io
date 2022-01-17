@@ -30,7 +30,7 @@ HAHA! Made you look! :D
 <meta property="twitter:title" content="New Beginnings" />
 <meta name="twitter:site" content="@oykun" />
 <script type="application/ld+json">
-{"dateModified":"2021-01-27T00:01:01+00:00","datePublished":"2021-01-27T00:01:01+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2021/new-beginnings.html"},"url":"http://localhost:4000/2021/new-beginnings.html","@type":"BlogPosting","description":"Designer based in London.","image":"http://localhost:4000/assets/article-newbeginnings.png","headline":"New Beginnings","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/2021/new-beginnings.html","image":"http://localhost:4000/assets/article-newbeginnings.png","headline":"New Beginnings","dateModified":"2021-01-27T00:01:01+00:00","datePublished":"2021-01-27T00:01:01+00:00","@type":"BlogPosting","description":"Designer based in London.","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2021/new-beginnings.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -103,6 +103,36 @@ HAHA! Made you look! :D
 
     <p>Reach out to me on <a href="https://twitter.com/oykun">Twitter @oykun</a> or via <a href="mailto:hello@oykun.com">email</a> if you have any questions.</p>
 </div>
+
+<form id="comment-form" method="post" action="/">
+    <fieldset>
+      <label for="comment-form-message">Comment</label>
+      <textarea type="text" rows="3" id="comment-form-message" name="fields[message]"></textarea>
+    </fieldset>
+    <fieldset>
+      <label for="comment-form-name">Name</label>
+      <input type="text" id="comment-form-name" name="fields[name]"/>
+    </fieldset>
+    <fieldset>
+      <label for="comment-form-email">Email address</label>
+      <input type="email" id="comment-form-email" name="fields[email]"/>
+    </fieldset>
+    <fieldset>
+      <label for="comment-form-url">Website</label>
+      <input type="url" id="comment-form-url" name="fields[url]"/>
+    </fieldset>
+    <fieldset class="hidden" style="display: none;">
+      <!-- used by Staticman to generate filenames for each comment -->
+      <input type="hidden" name="options[slug]" value="new-beginnings">
+      <!-- honey pot used to filter out spam -->
+      <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
+      <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+    </fieldset>
+    <fieldset>
+      <button type="submit" id="comment-form-submit">Submit Comment</button>
+    </fieldset>
+  </form>
+  <!-- End new comment form -->
 
 <footer class="max-width pt5">
 	<div class="flex flex-wrap items-center justify-between">
