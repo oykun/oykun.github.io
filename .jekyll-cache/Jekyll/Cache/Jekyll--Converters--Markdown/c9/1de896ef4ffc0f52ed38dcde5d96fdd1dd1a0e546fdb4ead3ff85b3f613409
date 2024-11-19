@@ -1,5 +1,29 @@
-I"Å,<div class="w-100-l flex justify-between flex-wrap">
+I"†/<div class="w-100-l flex justify-between flex-wrap">
     <div class="w-70-l">
+        
+            <div class="separator">
+                <article class="max-width flex-l justify-between flex-wrap items-center">
+                    <div class="w-70-l">
+                        <h1 class="slim"><a href="/2024/charge-more.html" title="Read more"> Designers, charge more $$$ to help yourself and your clients. </a></h1>
+                    </div>
+                    <div class="w-20-l tr-l">
+                        <time datetime="April 27, 2024" class="text-grey text-small">Apr 27, 2024</time>
+                        <!-- <a href="/2024/charge-more.html" title="Read more"><img src=""></a> -->
+                    </div>
+                </article>
+            </div>
+        
+            <div class="separator">
+                <article class="max-width flex-l justify-between flex-wrap items-center">
+                    <div class="w-70-l">
+                        <h1 class="slim"><a href="/2024/letter-to-young-designers.html" title="Read more"> Letter to Young Designers </a></h1>
+                    </div>
+                    <div class="w-20-l tr-l">
+                        <time datetime="April 27, 2024" class="text-grey text-small">Apr 27, 2024</time>
+                        <!-- <a href="/2024/letter-to-young-designers.html" title="Read more"><img src=""></a> -->
+                    </div>
+                </article>
+            </div>
         
             <div class="separator">
                 <article class="max-width flex-l justify-between flex-wrap items-center">
@@ -141,18 +165,6 @@
                     <div class="w-20-l tr-l">
                         <time datetime="May 2, 2013" class="text-grey text-small">May 2, 2013</time>
                         <!-- <a href="/2013/self-taught-with-passion.html" title="Read more"><img src="/assets/article-passion.png"></a> -->
-                    </div>
-                </article>
-            </div>
-        
-            <div class="separator">
-                <article class="max-width flex-l justify-between flex-wrap items-center">
-                    <div class="w-70-l">
-                        <h1 class="slim"><a href="/2013/charge-more.html" title="Read more"> White Space </a></h1>
-                    </div>
-                    <div class="w-20-l tr-l">
-                        <time datetime="March 25, 2013" class="text-grey text-small">Mar 25, 2013</time>
-                        <!-- <a href="/2013/charge-more.html" title="Read more"><img src="/assets/article-whitespace.png"></a> -->
                     </div>
                 </article>
             </div>
