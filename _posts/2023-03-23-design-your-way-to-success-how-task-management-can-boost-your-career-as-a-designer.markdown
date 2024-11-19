@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design Your Way to Success: How task management can boost your career as a Designer"
-date:   2023-09-23 00:01:01 +0000
+date:   2023-03-23 00:01:01 +0000
 permalink: /:title:output_ext
 image: 
 categories: 
