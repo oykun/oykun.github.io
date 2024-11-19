@@ -71,6 +71,7 @@ categories:
 <p>Stoic philosopher and emperor Epictetus says;</p>
 <blockquote>"It's not what happens to you, but how you react to it that matters."</blockquote>
 
+
 <p>This profound mindset emphasises that while we may not always have control over the events that occur in our lives, we always have the power to choose our responses to them.</p>
 
 <p>Social media and people like this is going to be around us, we will be constantly exposed to these.</p>

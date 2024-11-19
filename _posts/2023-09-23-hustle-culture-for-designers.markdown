@@ -1,88 +1,68 @@
 ---
 layout: post
-title:  "Tackling FOMO-driven social media struggle with your new Designer Mindset"
-date:   2023-09-30 00:01:01 +0000
+title:  "Hustle Culture for Designers"
+date:   2023-09-23 00:01:01 +0000
 permalink: /:title:output_ext
 image: 
 categories: 
 ---
 
-<p>You are a designer, working on your full-time job or your freelance projects.</p>
+<p>We all have our aspirations and goals in life and career.</p>
 
-<p>You go online, open X app. You see:</p>
-<ol>
-    <li>John released his Framer template</li>
-    <li>Fatma launches her "How To Make $100k As A Designer" course</li>
-    <li>Gary starts his subscription model design service</li>
-    <li>Laila is working on an AI product</li>
-    <li>...</li>
-    <li>Nadia posts screenshots from her Stripe with $50k monthly sale.</li>
-</ol>
+<p>For me, it goes from having an impact on my full-time work to helping designers via my blog, email newsletter, and other educational content.</p>
 
-<p>Then, you look at yourself and feel like you are missing out.</p>
+<p>I need to work damn hard to achieve these goals! Making the most of every breathing hour! Time is working against me!</p>
 
-<p>You think you should be working on your framer template, course, UIKit, … all of it! Otherwise, you are falling behind!</p>
+<p>Right?!</p>
 
-<p>From your perspective, you look at X as 1 thing, almost like a single person is doing it all. Then you look at yourself, doing only 1 thing.</p>
+<p>Well, yes and no.</p>
 
-<p>FOMO crips in. You start to feel less of yourself and get demotivated, even depressed perhaps!</p>
+<p>First of all, considering the very little chance you haven't heard of the Hustle Culture;</p>
+<blockquote>"Hustle culture is a term that refers to the belief that working long hours and pushing yourself to the limit is the key to success."</blockquote>
 
-<p>Sounds familiar? You are not alone! We all struggle with it.</p>
+<p>So it is about working hard. That's a good thing, right?</p>
 
-<p>In today's hyper-connected world, where social media paints our eyes and minds with a constant stream of achievements, updates, and seemingly perfect lives, it's easy to fall into FOMO-induced depression.</p>
+<p>As with everything in life, it depends on who you are, and where you are in your life and career.</p>
 
-<p>The fear of missing out on opportunities, experiences, and success can lead to comparison, anxiety, self-doubt and more...</p>
-
-<p>I have a few ways of approaching this situation.</p>
-
-<h3>FIRST</h3>
-<p>Change your perspective!</p>
-
-<p>Look at it at the individual level. 1 person usually does 1 thing first.</p>
-
-<p>1 thing well!</p>
-
-<p>Once it's successful, then it is easier to create a course on teaching that thing, or take out the components from it, and repackage them as a kit to sell.</p>
-
-<p>These are the side outcomes of the 1 thing that doesn't really take that much effort. You have already covered most of it with your 1 thing.</p>
-
-<p>Look again at that designer on X with this eye. You will see this pattern more often than not.</p>
-
-<p>Find your 1 thing and focus on that.</p>
-
-<p>Don't worry about the rest.</p>
-
-<p>They will come naturally.</p>
-
-<h3>SECOND</h3>
-<p>Embrace the mindset of JOMO (Joy Of Missing Out) over FOMO</p>
-
-<p>Instead of feeling bad about what you're not doing, focus on the thing you are doing well.</p>
-
-<p>JOMO says, "Hey, let's be happy about what we're doing right now!" yes, a bit cringe!</p>
-
-<p>You don't have to copy what everyone else is doing. You can focus on your own ideas and make them shine.</p>
-
-<p>This mindset also helps us to use social media in a better way. We don't have to spend forever looking at other people's various stuff. We can choose the ones that are relevant to the 1 thing we are making and keep the focus on it without distractions. It is okay to unfollow and block people who are not truly relevant to you at where you are in your journey today.</p>
-
-<p>I know it sounds like supernatural nonsense; saying "Just change the way to look at it!" However, the power of mindset is often overlooked. I encourage you to be open-minded, please.</p>
-
-<h3>THIRD</h3>
-<p>Stoic philosopher and emperor Epictetus says;</p>
-<blockquote>"It's not what happens to you, but how you react to it that matters."</blockquote>
-
-<p>This profound mindset emphasises that while we may not always have control over the events that occur in our lives, we always have the power to choose our responses to them.</p>
-
-<p>Social media and people like this is going to be around us, we will be constantly exposed to these.</p>
-
-<p>We have no control over what other people are doing, sharing, saying... What we have control over is our reaction to it. That goes through setting our Designer Mindset straight!</p>
-
-<h3>Conclusion</h3>
-<p>These are just a few ways to approach it.</p>
-
-<p>To sum up;</p>
+<p>I did my share of hustling (I don't like this term btw) and it worked out well for a period of time but only because</p>
 <ul>
-    <li>Changing your perspective from a collective effort to a single effort</li>
-    <li>Embracing the JOMO by enjoying what you're doing without worrying about what everyone else is doing</li>
-    <li>Taking the Stoic approach to taking control of how we react to the events happening in our lives that are out of our control</li>
+    <li>I was young</li>
+    <li>I had the energy</li>
+    <li>I didn't have any dependents</li>
+    <li>I didn't have many commitments</li>
+    <li>I had time</li>
 </ul>
+
+<p>Now, as I'm 40 years old with a family, a full-time job and loads of responsibilities on my plate, I find it hard to hustle long nights for a long period of time. I don't even want to any more even though the current culture tries to make you feel guilty for not hustling!</p>
+
+<p>"Working Smart" became my solution to my younger's self's "Working Hard" approach.</p>
+
+<p>However, you need to be Smart to work smart, and you need to Work Hard to be smart.</p>
+
+<p>So this is not really a choice of one or another, but more of a progression.</p>
+
+<p>First, you work hard, you learn what works and what doesn't, you gain experience, and then you transition to working smart, intentionally or otherwise.</p>
+
+<p>So, how do you go about that?</p>
+
+<p>If you are a 20 years old aspiring designer spending hours every day on TikTok or PlayStation, it can be good to hustle a bit and learn. Make the most of your time and energy for your growth while you have it.</p>
+
+<p>Btw, I'm a firm believer in moderation. Video games, social media, Netflix are not evil! unless you spend countless hours for them every day. I enjoy my PlayStation time pretty much every day but in moderation.</p>
+
+<p>If you are a 40 years old designer with kids and a full-time job, hustling long nights for a long period of time can drive you to burnout. It can affect your family life. It may be smarter to develop a better plan for growth than brut hard work.</p>
+
+<p>Remember; Hustle Culture is not sustainable.</p>
+
+<p>I like to characterise this as more of an Obsession than Hustle. I often obsess over things. When I do, I buy all the recommended books, I research, watch videos, practice it, and obsess over it! It usually lasts a couple of weeks or a few months. Then to the next thing.</p>
+
+<p>I find this approach healthier because my drive is purely based on my interest, not any external force. It is an "I want to..." situation, not "I should do...". So burnout is less likely to happen.</p>
+
+<p>When the obsession slowly goes away, I take my learnings, seal them in my skill set and move on to the next thing.</p>
+
+<p>Whatever you do, please take your rest as seriously as your hustle.</p>
+
+<p>In a creative field like ours, we can actually get more done by taking more breaks.</p>
+
+<p>Don't worry about putting names on things like Hustle Culture and comparing yourself to how others define it, including me!</p>
+
+<p>Listen to your body. Hear your ambitions. If you feel the fire for obsessing over anything, go for it. Spend extra hours for a while to learn while the motivation is high! It won't last long. Don't compare yourself to others, and feel depressed. Everybody's circumstances are different. You do You. Work hard and Work smart in your own way.</p>
