@@ -1,13 +1,8 @@
----
-layout: default
-title: Oykun Yilmaz, About
-permalink: /about/
-bgcolor: FFF
----
+I"/
 <h1>Bio</h1>
 <p>I'm Öykün Yılmaz, an ex-developer turned designer, based in London UK, with curiosity and passion for simplicity in design. In my 20 years of experience, I've been fortunate enough to work with great teams on many successful projects that has been featured in iOS App Stores, TechCrunch, The Sunday Times, The Independent and many other tech blogs and printed press.</p>
 <p>During my career, I've taken the role of multiple disciplines from development to design, project management, creative direction at many projects in various sectors from finance to healthcare, entertainment, telecommunication, education and more, including clients such as Garanti Bank, Turkcell, Adobe, John Hopkins, Cooper Union, Musixmatch and various startups.</p>
-<img src="/assets/oykun.jpg" alt="Oykun" title="Oykun" style="height: 144px;">
+<p><img src="/assets/oykun.jpg" alt="Oykun" title="Oykun" style="height: 144px;" /></p>
 
 <h1 class="mt5">Interviews</h1>
 <ul>
@@ -33,3 +28,4 @@ bgcolor: FFF
 
 <p>This system allows me to run my website and blog without managing any database, but simple markdown files. I enjoy the simplicity and security of this system. Regarding the typography, currently it is using Georgia for Serif, and Arial for Sans Serif.</p>
 
+:ET
