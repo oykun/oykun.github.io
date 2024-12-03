@@ -1,53 +1,4 @@
-<!-- 
-HAHA! Made you look! :D
--->
-<!doctype html>
-<html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/tachyons.css">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <meta charset="utf-8">
-    <title>Oykun Yilmaz, Designer.</title>
-    <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Oykun Yilmaz, Designer. | Oykun Yilmaz</title>
-<meta name="generator" content="Jekyll v4.0.1" />
-<meta property="og:title" content="Oykun Yilmaz, Designer." />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Personal website and blog on design, development and lessons learned in life." />
-<meta property="og:description" content="Personal website and blog on design, development and lessons learned in life." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Oykun Yilmaz" />
-<meta property="og:image" content="http://localhost:4000/assets/social_image.jpg" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:image" content="http://localhost:4000/assets/social_image.jpg" />
-<meta property="twitter:title" content="Oykun Yilmaz, Designer." />
-<meta name="twitter:site" content="@oykun" />
-<script type="application/ld+json">
-{"name":"Oykun Yilmaz","url":"http://localhost:4000/","description":"Personal website and blog on design, development and lessons learned in life.","@type":"WebSite","image":"http://localhost:4000/assets/social_image.jpg","headline":"Oykun Yilmaz, Designer.","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-</head>
-<body style="background-color: #ffffff">
-<div class="max-width"> 
-<header class="mb3">
-	<nav class="flex-l">
-		<a href="http://localhost:4000" title="Oykun, Blog">Writings</a>
-		<a href="https://crucial.design" title="Crucial Design" target="_blank">Designs</a> 
-		<a href="/tools" title="Tools I use">Tools</a> 
-		<a href="/books" title="Books">Books</a> 
-		<a href="/quotes" title="Quotes">Quotes</a> 
-		<a href="/bio" title="Oykun, About">Bio</a> 
-		<a href="/subscribe" title="Subscribe for lessons, experiments and updates...">Newsletter</a>
-	</nav>
-</header>
-
-
-<p class="mb5">Oykun is a <a href="https://crucial.design" target="_blank" title="Crucial Design Agencys">designer</a> and <a href="/books" title="Books and Articles">writer</a> living in London, UK. <a href="/about" title="Oykun, About">Bio</a></p>
+I".<p class="mb5">Oykun is a <a href="https://crucial.design" target="_blank" title="Crucial Design Agencys">designer</a>, <a href="/books" title="Books and Articles">writer</a> living in London, UK. <a href="/about" title="Oykun, About">Bio</a></p>
 
 <h1>Writings</h1>
 <ul class="square-list">
@@ -139,28 +90,4 @@ HAHA! Made you look! :D
     <li><a href="/white-space.html" title="Read more"> White Space </a></li>
     
 </ul>
-
-
-<footer>
-	<a href="https://x.com/oykun" title="@oykun" target="_blank" class="mr2">X (Twitter)</a>
-	<a href="https://crucial.design" title="@oykun" target="_blank" class="mr2">Crucial.Design</a>
-	<a href="https://designermindset.net" title="Designer Mindset Community" target="_blank" class="mr2">DesignerMindset</a> 
-	<a href="mailto:hello@oykun.com" title="hello@oykun.com" class="mr2">Email</a>
-	<a href="https://oykun.com/feed.xml" class="mr2">RSS</a>
-	© 2013-2024
-</footer>
-
-<script>
-	(function (i, s, o, g, r, a, m) {
-		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-			(i[r].q = i[r].q || []).push(arguments)
-		}, i[r].l = 1 * new Date(); a = s.createElement(o),
-			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-	})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-	ga('create', 'UA-613438-6', 'auto');
-	ga('send', 'pageview');
-</script>
-</div>
-</body>
-</html>
+:ET
