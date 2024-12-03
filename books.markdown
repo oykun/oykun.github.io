@@ -6,32 +6,35 @@ description: "Benefits of reading is undeniable from enchancing knowledge to red
 permalink: /books/
 bgcolor: ffffff
 ---
+<h1>Books</h1>   
 
-<div class="max-width">
-	<h1 class="slim">Books</h1>   
-    <p class="text-small">Benefits of reading is undeniable from enchancing knowledge to reducing stress, pure enjoyment and more... I usually read to learn from authors' years of experience in a few hours (such a treasure) or get inspired from a fiction story, personality. Here I wanted to share some of my favorite books that have had a big impact on my life. I hope you will find them useful as well. Btw some of the links include affiliate codes.</p>
-    <div class="flex-l flex-wrap justify-between mt5 text-smaller">
-        <div class="recommend-item w-30-l">
-            <a href="https://www.amazon.co.uk/gp/product/0140442103?ie=UTF8&psc=1&linkCode=li3&tag=minimalstuffm-21&linkId=c9a4d959e51b15f1098854bf69a36af7&language=en_GB&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0140442103&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=minimalstuffm-21&language=en_GB" ></a><img src="https://ir-uk.amazon-adsystem.com/e/ir?t=minimalstuffm-21&language=en_GB&l=li3&o=2&a=0140442103" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-            <h4>Letters from a Stoic by Seneca</h4>
-            <p>This is the book introduced me to the Stocism. There is so much to share about this philosophy, however briefly this book helped me to change my perspective on not worrying about things I can not control, instead focusing on the moment, appreciating life and what we have today. This book led me to read many more books about Stoicism and it has changed the way I live my life.</p>
-            <a href="https://www.amazon.co.uk/gp/product/0140442103?ie=UTF8&psc=1&linkCode=li3&tag=minimalstuffm-21&linkId=c9a4d959e51b15f1098854bf69a36af7&language=en_GB&ref_=as_li_ss_il" target="_blank">Buy on Amazon</a>
-        </div>
-        <div class="recommend-item w-30-l">
-            <a href="https://www.amazon.co.uk/Quiet-Power-Introverts-World-Talking/dp/0141029196?crid=16WRQT565YY2M&keywords=quiet+susan+cain&qid=1574086612&s=books&sprefix=quiet%2Caps%2C133&sr=1-1&linkCode=li3&tag=minimalstuffm-21&linkId=633a9ed906cc80cff783365ea382add5&language=en_GB&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0141029196&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=minimalstuffm-21&language=en_GB" ></a><img src="https://ir-uk.amazon-adsystem.com/e/ir?t=minimalstuffm-21&language=en_GB&l=li3&o=2&a=0141029196" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-            <h4>Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain</h4>
-            <p>I saw myself so much in this book! it helped me to be happy with most choices I’ve had given in social groups that made me feel bad & that actually it is OK. This’s one of those rare books I can tell that had a great impact on my life.</p>
-            <a href="https://www.amazon.co.uk/Quiet-Power-Introverts-World-Talking/dp/0141029196?crid=16WRQT565YY2M&keywords=quiet+susan+cain&qid=1574086612&s=books&sprefix=quiet%2Caps%2C133&sr=1-1&linkCode=li3&tag=minimalstuffm-21&linkId=633a9ed906cc80cff783365ea382add5&language=en_GB&ref_=as_li_ss_il" target="_blank">Buy on Amazon</a>
-        </div>
-        <div class="recommend-item w-30-l">
-            <a href="https://www.amazon.co.uk/Richest-Man-Babylon-George-Clason/dp/0451205367?crid=GUYUL6DOVBTX&keywords=richest+man+in+babylon&qid=1574087148&s=books&sprefix=riches%2Cstripbooks%2C135&sr=1-1&linkCode=li3&tag=minimalstuffm-21&linkId=9561ae01869c640339f7e0aefd046a7d&language=en_GB&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0451205367&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=minimalstuffm-21&language=en_GB" ></a><img src="https://ir-uk.amazon-adsystem.com/e/ir?t=minimalstuffm-21&language=en_GB&l=li3&o=2&a=0451205367" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-            <h4>The Richest Man In Babylon by George S. Clason</h4>
-            <p>This is a must read for everyone, no matter what type of book you are into fiction, non-fiction... It’ll change how to look at money & help you on your wealth building journey with gripping stories!</p>
-            <a href="https://www.amazon.co.uk/Richest-Man-Babylon-George-Clason/dp/0451205367?crid=GUYUL6DOVBTX&keywords=richest+man+in+babylon&qid=1574087148&s=books&sprefix=riches%2Cstripbooks%2C135&sr=1-1&linkCode=li3&tag=minimalstuffm-21&linkId=9561ae01869c640339f7e0aefd046a7d&language=en_GB&ref_=as_li_ss_il" target="_blank">Buy on Amazon</a>
-        </div>
-        <div class="recommend-item i pt6">
-            <p>More recommendations are coming...</p> 
-            <p>This page is "Work in Progress".</p> 
-        </div>
-    </div>
-</div>
+<a href="https://oykun.kit.com/products/letters?_gl=1*x5ou85*_gcl_au*MjIyMjMxMTY3LjE3MzIzOTYzMDQ." target="_blank" class="mb3"><img src="/assets/books/lettersfromadesigner.png" alt="Letters from a Designer" class="mr2 mb2 fl" width="222px"></a>
+
+# Letters From A Designer
+
+Dear Designer,
+
+You have a beautiful soul and a gentle heart. You are kind. I love and appreciate these qualities.
+
+However, it pains me to see that you might be holding yourself back from reaching your full potential. It frustrates me to witness how you're making your career and life unnecessarily difficult by being overly accommodating and not standing up for yourself.
+
+I know that you have so much more to offer and achieve, and it hurts me to see you settle for less.
+
+So, here I'm using the pages in this book to pour out my inner screams to help you unlock your full potential as a Designer, gain new perspectives and break free from self-limitations.
+
+This is not a time to be offended.
+
+This is the time to reflect on your actions and be brutally honest with yourself.
+
+You have the power to break free from the limitations you've set for yourself and become a stronger, braver designer.
+
+So, please take this as a reminder of your potential and a call to action to start living up to it.
+
+<p class="b">→ <a href="https://oykun.kit.com/products/letters?_gl=1*x5ou85*_gcl_au*MjIyMjMxMTY3LjE3MzIzOTYzMDQ." target="_blank" class="mb3">Buy $5</a></p>
+
+<h1 class="mt5">Quotes from Readers</h1>
+<ul>
+    <li>"Couldn't take my eyes off it for a second! Such a great read! 🙏" -<a href="https://x.com/fabianarbor" target="_blank">Fabian Arbor</a></li>
+    <li>"It's compact, easy to read, and filled up with guidelines every designer should read 🔥🤌" -<a href="https://x.com/abinashmohanty" target="_blank">Abinash Mohanty</a></li>
+    <li>"Read 'letters from a designer' yesterday. @oykun dropped some serious knowledge in such concise detail. Such a great read that has definitely changed my perspective going forward as a designer. Would definitely recommend." -<a href="https://x.com/pixelsbypeter" target="_blank">Peter Da Silva</a></li>
+</ul>
