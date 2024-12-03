@@ -6,8 +6,9 @@ description: "Personal website and blog on design, development and lessons learn
 image: /assets/social_image.jpg
 bgcolor: ffffff
 ---
-<div class="flex mb5">
-    <p class="ma0">Oykun is a <a href="https://crucial.design" target="_blank" title="Crucial Design Agencys">designer</a> and <a href="/books" title="Books and Articles">writer</a> with 25+ years of experience living in London. He often thinks, designs, writes about the future of design. <a href="/about" title="Oykun, About">Bio</a></p>
+<h1>Oykun, Designer</h1>
+<div class="flex mb5 mt1">
+    <p class="ma0">I'm a <a href="https://crucial.design" target="_blank" title="Crucial Design Agencys">designer</a> and <a href="/books" title="Books and Articles">writer</a> with 25+ years of experience living in London. <a href="/bio" title="Oykun, About">Bio</a></p>
     <img src="/assets/oykun_avatar.jpg" alt="oykun" width="64" height="64" class="fr ml2">
 </div>
 

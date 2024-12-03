@@ -5,11 +5,11 @@ permalink: /bio/
 bgcolor: FFF
 ---
 <h1>Bio</h1>
-<p class="i">"At the heart of all Oykun's creations is a commitment to building digital products that prioritize simplicity and beauty." <strong>-Adobe</strong></p>
+<p class="i mb4">"At the heart of all Oykun's creations is a commitment to building digital products that prioritize simplicity and beauty." <strong>-Adobe</strong></p>
 
 
-<p>I'm Öykün Yılmaz, an ex-developer turned designer, based in London UK, with curiosity and passion for simplicity in design. In my 20 years of experience, I've been fortunate enough to work with great teams on many successful projects that has been featured in iOS App Stores, TechCrunch, The Sunday Times, The Independent and many other tech blogs and printed press.</p>
-<p>During my career, I've taken the role of multiple disciplines from development to design, project management, creative direction at many projects in various sectors from finance to healthcare, entertainment, telecommunication, education and more, including clients such as Garanti Bank, Turkcell, Adobe, John Hopkins, Cooper Union, Musixmatch and various startups.</p>
+<p clas>I'm Öykün Yılmaz, an ex-developer turned designer, based in London UK, with curiosity and passion for simplicity in design. In my 25+ years of experience, I've been fortunate enough to work with great teams on many successful projects that has been featured in iOS App Stores, TechCrunch, The Sunday Times, The Independent and many other tech blogs and printed press.</p>
+<p>During my career, I've taken the role of multiple disciplines from development to design, project management, creative direction at many projects in various sectors including ai, finance, healthcare, entertainment, telecommunication, education and more, for clients such as Garanti Bank, Turkcell, Adobe, John Hopkins, Cooper Union, Musixmatch and various startups.</p>
 <img src="/assets/oykun.jpg" alt="Oykun" title="Oykun" style="height: 144px;">
 
 <h1 class="mt5">Interviews</h1>
@@ -21,7 +21,7 @@ bgcolor: FFF
 
 <h1 class="mt5">Connect</h1>
 <ul>
-    <li><a href="https://twitter.com/oykun" title="@oykun">Twitter</a></li>
+    <li><a href="https://x.com/oykun" title="@oykun">X (Twitter)</a></li>
     <li><a href="https://instagram.com/oykun" title="@oykun">Instagram</a></li>
     <li><a href="https://www.linkedin.com/in/oykun/" title="oykun">LinkedIn</a></li>
     <li><a href="https://www.behance.net/oykun" title="oykun">Behance</a></li>
