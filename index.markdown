@@ -6,11 +6,21 @@ description: "Personal website and blog on design, development and lessons learn
 image: /assets/social_image.jpg
 bgcolor: ffffff
 ---
-<p class="mb5">Oykun is a <a href="https://crucial.design" target="_blank" title="Crucial Design Agencys">designer</a> and <a href="/books" title="Books and Articles">writer</a> living in London, UK. <a href="/about" title="Oykun, About">Bio</a></p>
+<div class="flex mb5">
+    <p class="ma0">Oykun is a <a href="https://crucial.design" target="_blank" title="Crucial Design Agencys">designer</a> and <a href="/books" title="Books and Articles">writer</a> with 25+ years of experience living in London. He often thinks, designs, writes about the future of design. <a href="/about" title="Oykun, About">Bio</a></p>
+    <img src="/assets/oykun_avatar.jpg" alt="oykun" width="64" height="64" class="fr ml2">
+</div>
 
 <h1>Writings</h1>
-<ul class="square-list">
-    {% for post in site.posts %}
-    <li><a href="{{ post.url }}" title="Read more"> {{ post.title }} </a></li>
+<ul class="list ma0 pa0">
+    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in posts_by_year %}
+    <li><strong>{{ year.name }}</strong>
+        <ul class="square-list ma0">
+            {% for post in year.items %}
+            <li><a href="{{ post.url }}" title="Read more"> {{ post.title }} </a></li>
+            {% endfor %}
+        </ul>
+    </li>
     {% endfor %}
 </ul>

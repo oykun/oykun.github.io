@@ -15,14 +15,10 @@ HAHA! Made you look! :D
     {% seo %}
 </head>
 <body style="background-color: #{{ page.bgcolor }}">
-<div class="max-width"> 
-{% include header.html %}
-
-{{ content }}
-
-{% include footer.html %}
-
-{% include analytics.html %}
+<div class="max-width flex"> 
+    <div class="w-20">{% include header.html %}</div>
+    <div class="w-70">{{ content }} {% include footer.html %}</div>
 </div>
+{% include analytics.html %}
 </body>
 </html>
