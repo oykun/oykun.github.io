@@ -109,6 +109,9 @@ html, body {
 a {
   color: $link;
 }
+a:hover {
+  text-decoration: none;
+}
 
 blockquote {
   border-left: 5px solid $dark;

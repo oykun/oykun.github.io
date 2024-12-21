@@ -29,6 +29,8 @@ html, body { font-size: 1rem; font-family: Arial, Helvetica, sans-serif; letter-
 
 a { color: #3c434c; }
 
+a:hover { text-decoration: none; }
+
 blockquote { border-left: 5px solid #3c434c; margin-top: 3rem; margin-bottom: 3rem; margin-left: 0; padding-left: 3rem; font-family: Arial, Helvetica, sans-serif; text-align: left; font-weight: 700; }
 
 .slim { font-weight: 100; }
