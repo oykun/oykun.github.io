@@ -52,11 +52,12 @@ body {
   padding: 1rem;
   left: 0;
   top: 0;
-  background-color: $light !important;
+  background-color: $white !important;
 }
 
 .max-width {
   max-width: $max-width;
+  margin: 0 auto;
 }
 
 header, footer {
@@ -106,7 +107,7 @@ html, body {
 }
 
 a {
-
+  color: $link;
 }
 
 blockquote {
