@@ -23,7 +23,6 @@ bgcolor: FFF
 <ul>
     <li><a href="https://x.com/oykun" title="@oykun">X (Twitter)</a></li>
     <li><a href="https://instagram.com/oykun" title="@oykun">Instagram</a></li>
-    <li><a href="https://www.linkedin.com/in/oykun/" title="oykun">LinkedIn</a></li>
     <li><a href="https://www.behance.net/oykun" title="oykun">Behance</a></li>
     <li><a href="https://www.dribbble.com/oykun" title="oykun">Dribbble</a></li>
     <li><a href="https://www.facebook.com/oykunyilmaz" title="oykunyilmaz">Facebook</a></li>
